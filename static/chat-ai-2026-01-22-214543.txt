@@ -1,0 +1,4019 @@
+SYSTEM: You are a helpful assistant.
+
+USER: what is the weather in leipzig currently?
+
+ASSISTANT: <think>Searching for "current weather Leipzig" on google
+
+Reading source: https://weather.com/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4
+
+Reading source: https://www.wunderground.com/forecast/de/leipzig
+
+Reading source: https://www.accuweather.com/en/de/leipzig/04109/weather-forecast/171240
+
+Searching for "Leipzig weather now" on google
+
+Reading source: https://weather.com/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4
+
+Reading source: https://www.wunderground.com/forecast/de/leipzig
+
+Reading source: https://weather.com/weather/tenday/l/Zentrum+Saxony+04109+Germany?canonicalCityId=cbe83866ccca16275481e6215afa7b1b
+
+Reading source: https://wttr.in/Leipzig?format=3
+
+Reading source: https://wttr.in/Leipzig?format=%C2%B0C+%C2%B0F
+
+Reading source: https://wttr.in/Leipzig?format=%C2%B0C+%C2%B0F
+
+Reading source: https://wttr.in/Leipzig?format=%l:+%c+%t+%w
+
+Reading source: https://wttr.in/Leipzig?format=%l:+%c+%t+%w
+
+Reading source: https://api.open-meteo.com/v1/forecast?latitude=51.3397&longitude=12.3731&current_weather=true
+
+Reading source: https://api.open-meteo.com/v1/forecast?latitude=51.3397&longitude=12.3731&current_weather=true
+
+Searching for "Leipzig weather January 22 2026" on google
+
+Reading source: https://www.weather.gov/wwamap/wwatxtget.php?cwa=bis&wwa=all
+
+Reading source: https://www.ventusky.com/leipzig
+
+Reading source: https://www.weather.gov/wwamap/wwatxtget.php?cwa=byz&wwa=all
+
+Reading source: https://wttr.in/Leipzig
+
+Reading source: https://wttr.in/Leipzig?format=3
+
+Searching for "Leipzig weather now temperature" on google
+
+Reading source: https://weather.com/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4
+
+Reading source: https://www.accuweather.com/en/de/leipzig/04109/weather-forecast/171240
+
+Reading source: https://www.wunderground.com/forecast/de/leipzig
+
+</think>**Leipzig (Saxony, Germany) – Current Weather (≈ 5 PM CET, 22 Jan 2026)**  
+
+- **Temperature:** ≈ ‑2 °C to ‑3 °C (‑2 °C reported by AccuWeather, ‑3 °C by wttr.in and Ventusky).  
+- **Feels‑like:** ‑4 °C (AccuWeather “RealFeel”).  
+- **Sky condition:** Mostly clear / clear sky.  
+- **Wind:** Light breeze from the east‑southeast – about 10 km/h (≈ 6 mph) according to AccuWeather, 4 km/h (≈ 2.5 mph) on Ventusky, and 1.8 km/h (≈ 1 mph) on Open‑Meteo.  
+- **Humidity:** Around 70 % (Ventusky).  
+- **Pressure:** ≈ 1002 hPa (Ventusky).  
+- **Air quality:** Rated “Unhealthy” (AccuWeather).  
+
+Overall, Leipzig is experiencing a cold, clear night with light east‑southeast winds and relatively high humidity.  
+
+*Sources: wttr.in (‑3 °C, clear)【​】, Open‑Meteo (‑0.6 °C, 1.8 km/h)【​】, AccuWeather (‑2 °C, mostly clear, 10 km/h ESE)【​】, Ventusky (‑3 °C, clear, 4 km/h)【​】.*.*
+-----------------------------------------
+References:
+
+[RREF10] [https://weather.com/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4](https://weather.com/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+Hamburger [ The Weather Company ](/)
+
+  * [ Home Home](/)
+
+Home
+
+  * [ Today Today](/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Today
+
+  * [ Hourly Hourly](/weather/hourbyhour/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Hourly
+
+  * [ Close 10 Day](/weather/tenday/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+10 Day
+
+  * [ Monthly Monthly](/weather/monthly/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Monthly
+
+  * [ Radar Radar](/weather/radar/interactive/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Radar
+
+  * [ Video Video](/storms/winter/video/southeast-winter-ice-storm-weekend-travel-power-outages)
+
+Video
+
+  * [ ExploreNew](/explore)
+
+Explore
+
+  *   * Severe Weather
+
+    * [ Hurricane Hurricane Central](/storms/hurricane-central)
+
+Hurricane Central
+
+    * [ Tornado Tornado Central](/storms/tornado-central)
+
+Tornado Central
+
+    * [ Storm Safety & Prep](/safety/index)
+
+Safety & Prep
+
+  *   * Health & Wellness
+
+    * [ Allergy Allergy Tracker](/forecast/allergy/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Allergy Tracker
+
+    * [ Breathing Air Quality Index](/forecast/air-quality/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Air Quality Index
+
+    * [ Virus Cold & Flu Tracker](/forecast/cold-flu/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Cold & Flu Tracker
+
+    * [ Playlist Skin](/health/skin-health)
+
+Skin
+
+  *   * Lifestyle
+
+    * [ Playlist Home & Garden](/home-garden)
+
+Home & Garden
+
+    * [ Playlist Pets & Animals](/pets)
+
+Pets & Animals
+
+    * [ Playlist Recipes](/home-garden/recipes)
+
+Recipes
+
+    * [ Playlist Space & Skywatching](/science/space)
+
+Space & Skywatching
+
+    * [ Playlist Travel & Outdoors](/travel)
+
+Travel & Outdoors
+
+    * [ Products Product Reviews & Deals](/atmosphere)
+
+Product Reviews & Deals
+
+Close [ The Weather Company ](/)
+
+  * [ Home Home](/)
+
+Home
+
+  * [ Today Today](/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Today
+
+  * [ Hourly Hourly](/weather/hourbyhour/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Hourly
+
+  * [ Close 10 Day](/weather/tenday/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+10 Day
+
+  * [ Monthly Monthly](/weather/monthly/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Monthly
+
+  * [ Radar Radar](/weather/radar/interactive/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Radar
+
+  * [ Video Video](/storms/winter/video/southeast-winter-ice-storm-weekend-travel-power-outages)
+
+Video
+
+  * [ ExploreNew](/explore)
+
+Explore
+
+  *   * Severe Weather
+
+    * [ Hurricane Hurricane Central](/storms/hurricane-central)
+
+Hurricane Central
+
+    * [ Tornado Tornado Central](/storms/tornado-central)
+
+Tornado Central
+
+    * [ Storm Safety & Prep](/safety/index)
+
+Safety & Prep
+
+  *   * Health & Wellness
+
+    * [ Allergy Allergy Tracker](/forecast/allergy/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Allergy Tracker
+
+    * [ Breathing Air Quality Index](/forecast/air-quality/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Air Quality Index
+
+    * [ Virus Cold & Flu Tracker](/forecast/cold-flu/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Cold & Flu Tracker
+
+    * [ Playlist Skin](/health/skin-health)
+
+Skin
+
+  *   * Lifestyle
+
+    * [ Playlist Home & Garden](/home-garden)
+
+Home & Garden
+
+    * [ Playlist Pets & Animals](/pets)
+
+Pets & Animals
+
+    * [ Playlist Recipes](/home-garden/recipes)
+
+Recipes
+
+    * [ Playlist Space & Skywatching](/science/space)
+
+Space & Skywatching
+
+    * [ Playlist Travel & Outdoors](/travel)
+
+Travel & Outdoors
+
+    * [ Products Product Reviews & Deals](/atmosphere)
+
+Product Reviews & Deals
+
+Skip to Main Content[Accessibility
+Help](https://www.essentialaccessibility.com/the-weather-
+channel?utm_source=theweatherchannelhomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=theweatherchannel)[
+The Weather Company ](/)
+
+Type at least three characters to start auto complete. Recently searched
+locations will be displayed if there is no search query. The first option will
+be automatically selected. Use up and down arrows to change selection. Use
+escape to clear.Search City or Zip Code Search
+
+## Recents
+
+Clear
+
+You have no recent locations
+
+Globe US°F
+
+  * °F
+  * °C
+  * Hybrid
+
+Imperial - F / mph / miles / inches
+
+Americas Add
+
+[Antigua and Barbuda | English](/en-AG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Argentina | Español](/es-AR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Bahamas | English](/en-BS/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Barbados | English](/en-BB/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Belize | English](/en-BZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Bolivia | Español](/es-BO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Brazil | Português](/pt-BR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Canada | English](/en-CA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Canada | Français](/fr-CA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Chile | Español](/es-CL/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Colombia | Español](/es-CO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Costa Rica | Español](/es-CR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Dominica | English](/en-DM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Dominican Republic | Español](/es-DO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Ecuador | Español](/es-EC/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[El Salvador | Español](/es-SV/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Grenada | English](/en-GD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Guatemala | Español](/es-GT/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Guyana | English](/en-GY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Haiti | Français](/fr-HT/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Honduras | Español](/es-HN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Jamaica | English](/en-JM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mexico | Español](/es-MX/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Nicaragua | Español](/es-NI/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Panama | Español](/es-PA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Panama | English](/en-PA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Paraguay | Español](/es-PY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Peru | Español](/es-PE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[St. Kitts and Nevis | English](/en-KN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[St. Lucia | English](/en-LC/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[St. Vincent and the Grenadines | English](/en-VC/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Suriname | Nederlands](/nl-SR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Trinidad and Tobago | English](/en-TT/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Uruguay | Español](/es-UY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[United States | English](/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[United States | Español](/es-US/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Venezuela | Español](/es-VE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Africa Add
+
+[Algeria | العربية](/ar-DZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Algeria | Français](/fr-DZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Angola | Português](/pt-AO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Benin | Français](/fr-BJ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Burkina Faso | Français](/fr-BF/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Burundi | Français](/fr-BI/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Cameroon | Français](/fr-CM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Cameroon | English](/en-CM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Cape Verde | Português](/pt-CV/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Central African Republic | Français](/fr-CF/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Chad | Français](/fr-TD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Chad | العربية](/ar-TD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Comoros | Français](/fr-KM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Comoros | العربية](/ar-KM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Democratic Republic of the Congo | Français](/fr-CD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Republic of Congo | Français](/fr-CG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Côte d'Ivoire | Français](/fr-CI/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Djibouti | Français](/fr-DJ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Djibouti | العربية](/ar-DJ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Egypt | العربية](/ar-EG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Equatorial Guinea | Español](/es-GQ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Eritrea | العربية](/ar-ER/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Gabon | Français](/fr-GA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Gambia | English](/en-GM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Ghana | English](/en-GH/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Guinea | Français](/fr-GN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Guinea-Bissau | Português](/pt-GW/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Kenya | English](/en-KE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Lesotho | English](/en-LS/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Liberia | English](/en-LR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Libya | العربية](/ar-LY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Madagascar | Français](/fr-MG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mali | Français](/fr-ML/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mauritania | العربية](/ar-MR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mauritius | English](/en-MU/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mauritius | Français](/fr-MU/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Morocco | العربية](/ar-MA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Morocco | Français](/fr-MA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mozambique | Português](/pt-MZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Namibia | English](/en-NA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Niger | Français](/fr-NE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Nigeria | English](/en-NG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Rwanda | Français](/fr-RW/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Rwanda | English](/en-RW/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Sao Tome and Principe | Português](/pt-ST/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Senegal | Français](/fr-SN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Sierra Leone | English](/en-SL/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Somalia | العربية](/ar-SO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[South Africa | English](/en-ZA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[South Sudan | English](/en-SS/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Sudan | العربية](/ar-SD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Swaziland | English](/en-SZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Tanzania | English](/en-TZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Togo | Français](/fr-TG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Tunisia | العربية](/ar-TN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Uganda | English](/en-UG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Asia Pacific Add
+
+[Australia | English](/en-AU/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Bangladesh | বাংলা](/bn-BD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Brunei | Bahasa Melayu](/ms-BN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[China | 中文](/zh-CN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Hong Kong SAR | 中文](/zh-HK/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[East Timor | Português](/pt-TP/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Fiji | English](/en-FJ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[India (English) | English](/en-IN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[India (Hindi) | हिन्दी](/hi-IN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Indonesia | Bahasa Indonesia](/id-ID/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Japan | 日本語](/ja-JP/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Kiribati | English](/en-KI/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[South Korea | 한국어](/ko-KR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Kyrgyzstan | Русский](/ru-KG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Malaysia | Bahasa Melayu](/ms-MY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Marshall Islands | English](/en-MH/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Micronesia | English](/en-FM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[New Zealand | English](/en-NZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Palau | English](/en-PW/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Philippines | English](/en-PH/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Philippines | Tagalog](/tl-PH/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Samoa | English](/en-AS/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Singapore | English](/en-SG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Singapore | 中文](/zh-SG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Solomon Islands | English](/en-SB/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Taiwan | 中文](/zh-TW/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Thailand | ไทย](/th-TH/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Tonga | English](/en-TO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Tuvalu | English](/en-TV/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Vanuatu | English](/en-VU/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Vanuatu | Français](/fr-VU/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Vietnam | Tiếng Việt](/vi-VN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Europe Add
+
+[Andorra | Català](/ca-AD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Andorra | Français](/fr-AD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Austria | Deutsch](/de-AT/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Belarus | Русский](/ru-BY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Belgium | Dutch](/nl-BE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Belgium | Français](/fr-BE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Bosnia and Herzegovina | Hrvatski](/hr-BA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Croatia | Hrvatski](/hr-HR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Cyprus | Ελληνικά](/el-CY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Czech Republic | Čeština](/cs-CZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Denmark | Dansk](/da-DK/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Estonia | Русский](/ru-EE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Estonia | Eesti](/et-EE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Finland | Suomi](/fi-FI/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[France | Français](/fr-FR/weather/today/l/c63ba1438b50219d26240b2a833bc6
+[RREF11] [https://www.wunderground.com/forecast/de/leipzig](https://www.wunderground.com/forecast/de/leipzig)
+Skip to Main Content [_ ](/ "Weather Underground") Sensor Network  Maps &
+Radar  Severe Weather  News & Blogs  Mobile Apps
+
+More
+
+Search _close_ _gps_fixed_
+
+  *  _gps_fixed_ Find Nearest Station 
+
+  * [Manage Favorite Cities](/member/favorites)
+
+[Log In](/login)
+
+[ _account_box_ Log in ](/login)_settings_ Settings Sensor NetworkMaps &
+RadarSevere WeatherNews & BlogsMobile Apps[Historical Weather](/history/)
+
+Search _close_ _gps_fixed_
+
+  *  _gps_fixed_ Find Nearest Station 
+
+  * [Manage Favorite Cities](/member/favorites)
+
+ _settings_
+
+ _warning_**Active Watch** : [Severe Warning for Low
+Temperature](/severe/de/leipzig)  ([See More](/severe/de/leipzig))
+
+Elev **122** ft, **51.34** °N, **12.38** °E
+
+# Leipzig, Saxony, Germany 10-Day Weather Forecast _star_rate_ _home_
+
+![icon](//www.wunderground.com/static/i/c/v4/31.svg) 31 °F Zentrum-Ost
+Station|Report
+
+Report Station
+
+Thank you for reporting this station. We will review the data in question.
+
+You are about to report this weather station for bad data. Please select the
+information that is incorrect.
+
+Temperature
+
+Pressure
+
+Wind
+
+Forecast
+
+Station Offline
+
+Send Report
+
+|Change
+
+ __
+
+__
+
+[See more](/wundermap/?lat=51.339043&lon=12.384283&zoom=12&wxsn=1)
+
+(Reset Map)
+
+Current Station
+
+Personal Weather Station
+
+[ Zentrum-Ost (ILEIPZ481)](/history/daily/de/leipzig/ILEIPZ481/date/2026-1-22)
+
+Location: **Leipzig , Saxony, Germany**
+
+Elevation: 122ft
+
+Nearby Weather Stations
+
+No PWS
+
+Reset Map, or [Add PWS](/member/devices/new).
+
+[zoom out](javascript:void\(0\);)
+
+Showing Stations
+
+ _settings_ Customize
+
+PreviousNext
+
+[ _date_range_ View Calendar Forecast ](/calendar/de/leipzig/EDDP)
+
+Top Video Stories
+
+  *  _keyboard_arrow_left_
+  *  _keyboard_arrow_right_
+
+[See more Top Video Stories](/video/top-stories)
+
+Additional Conditions
+
+Pressure
+
+29.58 °in
+
+Visibility
+
+8 °miles
+
+Clouds
+
+Clear
+
+Dew Point
+
+19 °F
+
+Humidity
+
+69 °%
+
+Rainfall
+
+0 °in
+
+Snow Depth
+
+0 °in
+
+Top Video Stories
+
+  *  _keyboard_arrow_left_
+  *  _keyboard_arrow_right_
+
+[See more Top Video Stories](/video/top-stories)
+
+Astronomy
+
+Sun
+
+Rise
+
+Set
+
+Actual Time
+
+8:03 AM
+
+4:42 PM
+
+Civil Twilight
+
+7:25 AM
+
+5:20 PM
+
+Nautical Twilight
+
+6:44 AM
+
+6:01 PM
+
+Astronomical Twilight
+
+6:05 AM
+
+6:40 PM
+
+Length of Visible Light
+
+9 h 54 m
+
+Length of Day
+
+8 h 39 m
+
+Tomorrow will be 2 minutes 50 seconds longer
+
+Moon
+
+9:35 AM
+
+9:10 PM
+
+![icon](//www.wunderground.com/static/i/moon/n-03.svg)
+
+waxing crescent
+
+16% of the Moon is Illuminated
+
+![icon](//www.wunderground.com/static/i/moon/n-07.svg)
+
+Jan 26
+
+Waxing Half First Qtr
+
+![icon](//www.wunderground.com/static/i/moon/n-15.svg)
+
+Feb 1
+
+Full Moon
+
+![icon](//www.wunderground.com/static/i/moon/n-22.svg)
+
+Feb 9
+
+Waning Half Last Qtr
+
+![icon](//www.wunderground.com/static/i/moon/n-01.svg)
+
+Feb 17
+
+New Moon
+
+  * [Our Apps](/download "Weather Underground Mobile Apps")
+  * [About Us](/about/our-company "About Weather Underground")
+  * [Contact](/about/contact-us "Contact Weather Underground")
+  * [Careers](https://www.weathercompany.com/careers)
+
+  * [PWS Network](/pws/overview "Personal Weather Station Network")
+  * [WunderMap](/wundermap "Experience WunderMap")
+  * [Feedback & Support](https://www.wunderground.com/feedback "Customer Feedback for Weather Underground")
+
+  * [Terms of Use](/company/legal)
+  * [Privacy Policy](/company/privacy-policy)
+  * [Accessibility Statement](/accessibility-statement)
+  * [AdChoices](/company/ad-choices)
+  * [Data Vendors](/data-vendors)
+
+[](https://www.essentialaccessibility.com/the-weather-
+channel?utm_source=theweatherchannelhomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=theweatherchannel)
+
+We recognize our responsibility to use data and technology for good. We may
+use or share your data with our data vendors. Take control of your data.
+
+  * [Data Rights](/data-rights)
+
+[![The Weather Company Logo](//www.wunderground.com/static/i/misc/twc-
+white.svg)](https://www.weathercompany.com)[![The Weather Channel
+Logo](//www.wunderground.com/static/i/misc/twc-
+knockout.svg)](https://weather.com)[![Weather Underground
+Logo](//www.wunderground.com/static/i/misc/wu-
+knockout.svg)](https://www.wunderground.com)[![Storm Radar
+Logo](//www.wunderground.com/static/i/misc/sr-
+knockout.png)](https://weather.com/storm-radar)
+
+© The Weather Company, LLC 2026
+
+Please enable JavaScript to continue using this application.
+
+
+[RREF12] [https://www.accuweather.com/en/de/leipzig/04109/weather-forecast/171240](https://www.accuweather.com/en/de/leipzig/04109/weather-forecast/171240)
+[ Go Back ](/pwa)
+
+  * [ For Business ](https://afb.accuweather.com)
+  * |
+  * [ Warnings ](https://afb.accuweather.com/accuweather-skyguard)
+  * [ Data Suite ](https://afb.accuweather.com/accuweather-data-suite)
+  * [ Forensics ](https://afb.accuweather.com/accuweather-forensicservices)
+  * [ Advertising ](https://advertising.accuweather.com/for-advertising/digital-advertising/)
+  * [ Superior Accuracy™ ](https://afb.accuweather.com/accuweathers-proven-superior-accuracy)
+
+[ ](/) # [Leipzig, Saxony -1°C ](/en/de/leipzig/04109/weather-forecast/171240)
+
+Location  Chevron down
+
+Location News Videos
+
+Use Current Location
+
+Recent
+
+[ Leipzig Saxony -1° ](/web-api/three-day-redirect?key=171240&target=)
+
+No results found.
+
+Try searching for a city, zip code or point of interest.
+
+[ ](/en/videos)
+
+[ settings ](/en/settings)
+
+Leipzig, Saxony Weather
+
+[Today](/en/de/leipzig/04109/weather-forecast/171240)
+[WinterCast](/en/de/leipzig/04109/winter-weather-forecast/171240) [Local
+{stormName} Tracker](/en/de/leipzig/04109/tropical-weather-
+forecast/171240?eventkey={eventkey}) [Hourly](/en/de/leipzig/04109/hourly-
+weather-forecast/171240) [Daily](/en/de/leipzig/04109/daily-weather-
+forecast/171240) [Radar](/en/de/leipzig/04109/weather-radar/171240)
+[MinuteCast®](/en/de/leipzig/04109/minute-weather-forecast/171240)
+[Monthly](/en/de/leipzig/04109/january-weather/171240) [Air
+Quality](/en/de/leipzig/04109/air-quality-index/171240) [Health &
+Activities](/en/de/leipzig/04109/health-activities/171240)
+
+##
+
+Around the Globe
+
+### [Hurricane Tracker ](/en/hurricane) ### [Severe Weather ](/en/de/severe-
+weather) ### [Radar & Maps ](/en/de/saxony/weather-radar)
+
+News
+
+### [News & Features ](/en/weather-news) ### [Astronomy ](/en/space-news) ###
+[Business ](/en/business) ### [Climate ](/en/climate) ### [Health
+](/en/health-wellness) ### [Recreation ](/en/leisure-recreation) ### [Sports
+](/en/sports) ### [Travel ](/en/travel)
+
+For Business
+
+### [Warnings ](https://afb.accuweather.com/accuweather-skyguard) ### [Data
+Suite ](https://afb.accuweather.com/accuweather-data-suite) ### [Forensics
+](https://afb.accuweather.com/accuweather-forensicservices) ### [Advertising
+](https://advertising.accuweather.com/for-advertising/digital-advertising/)
+### [Superior Accuracy™ ](https://afb.accuweather.com/accuweathers-proven-
+superior-accuracy)
+
+### [Video ](/en/videos)
+
+## [Today ](/en/de/leipzig/04109/weather-forecast/171240) [ WinterCast
+](/en/de/leipzig/04109/winter-weather-forecast/171240) [ Hourly
+](/en/de/leipzig/04109/hourly-weather-forecast/171240) [ Daily
+](/en/de/leipzig/04109/daily-weather-forecast/171240) [ Radar
+](/en/de/leipzig/04109/weather-radar/171240) [ MinuteCast®
+](/en/de/leipzig/04109/minute-weather-forecast/171240) [ Monthly
+](/en/de/leipzig/04109/january-weather/171240) [ Air Quality
+](/en/de/leipzig/04109/air-quality-index/171240) [ Health & Activities
+](/en/de/leipzig/04109/health-activities/171240)
+
+[ 10 Warning for Severe Frost ](/en/de/leipzig/04109/weather-warnings/171240)
+
+## [Today's Weather Thu, Jan 22  ![](https://www.awxcdn.com/adc-
+assets/images/weathericons/5.svg) Hazy sun **Hi: 3 °**
+![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) Tonight:
+Clear and cold **Lo: -8 °** ](/en/de/leipzig/04109/weather-today/171240)
+
+## [ Current Weather  5:40 PM  -1°C RealFeel® -4° Mostly clear More Details
+Wind ESE 10 km/h Wind Gusts 20 km/h Air Quality Unhealthy
+](/en/de/leipzig/04109/current-weather/171240) ## [Looking Ahead 10-15 cm of
+snow and ice Sunday afternoon through Monday afternoon
+](/en/de/leipzig/04109/daily-weather-forecast/171240?day=4) ## [WinterCast®
+Sun Afternoon - Sun Evening ![](https://www.awxcdn.com/adc-
+assets/images/whiteweathericons/22.svg) Snow Lasting 1 hour
+](/en/de/leipzig/04109/winter-weather-forecast/171240)
+
+## Leipzig Weather Radar
+
+[ ![Leipzig Weather
+Radar](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJAQMAAAAB5D5xAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjwA0AABsAAQrj5HwAAAAASUVORK5CYII=)
+Static Radar Temporarily Unavailable Thank you for your patience as we work to
+get everything up and running again. Refresh Page
+](/en/de/leipzig/04109/weather-radar/171240)
+
+[ ![](https://www.awxcdn.com/adc-assets/images/components/maps/mapping-
+layers/realvue-satellite.jpg) Clouds ](/en/de/leipzig/04109/satellite/171240)
+[ ![](https://www.awxcdn.com/adc-assets/images/components/maps/mapping-
+layers/temperature.jpg) Temperature ](/en/de/saxony/current-weather-maps)
+
+## Hourly Weather
+
+Chevron left
+
+[ 6 PM  ![](https://www.awxcdn.com/adc-assets/images/weathericons/37.svg) -1°
+0% ](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769101200) [ 7
+PM  ![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -1° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769104800) [ 8 PM
+![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -2° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769108400) [ 9 PM
+![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -3° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769112000) [ 10 PM
+![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -4° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769115600) [ 11 PM
+![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -5° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769119200) [ 12 AM
+![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -5° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769122800&day=2) [
+1 AM  ![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -5° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769126400&day=2) [
+2 AM  ![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -6° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769130000&day=2) [
+3 AM  ![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -6° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769133600&day=2) [
+4 AM  ![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -7° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769137200&day=2) [
+5 AM  ![](https://www.awxcdn.com/adc-assets/images/weathericons/35.svg) -7° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769140800&day=2)
+
+Chevron right
+
+## 10-Day Weather Forecast
+
+[ Today 1/22 ![](https://www.awxcdn.com/adc-assets/images/weathericons/5.svg)
+3° -8° Hazy sun ![](https://www.awxcdn.com/adc-
+assets/images/weathericons/33.svg) Night: Clear and cold 0%
+](/en/de/leipzig/04109/weather-today/171240) [ Fri 1/23
+![](https://www.awxcdn.com/adc-assets/images/weathericons/4.svg) 0° -5° High
+clouds and colder ![](https://www.awxcdn.com/adc-
+assets/images/weathericons/36.svg) Partly cloudy and cold 0%
+](/en/de/leipzig/04109/weather-tomorrow/171240) [ Sat 1/24
+![](https://www.awxcdn.com/adc-assets/images/weathericons/8.svg) 0° -4° Chilly
+with low clouds ![](https://www.awxcdn.com/adc-
+assets/images/weathericons/36.svg) Partly cloudy 25%
+](/en/de/leipzig/04109/daily-weather-forecast/171240?day=3) [ Sun 1/25
+![](https://www.awxcdn.com/adc-assets/images/weathericons/19.svg) 1° -1° A bit
+of afternoon snow ![](https://www.awxcdn.com/adc-
+assets/images/weathericons/24.svg) An icy mix, 2-4 cm; cloudy 66%
+](/en/de/leipzig/04109/daily-weather-forecast/171240?day=4) [ Mon 1/26
+![](https://www.awxcdn.com/adc-assets/images/weathericons/22.svg) 1° -2°
+Chilly with 6-12 cm of snow ![](https://www.awxcdn.com/adc-
+assets/images/weathericons/7.svg) An evening flurry; clouds 96%
+](/en/de/leipzig/04109/daily-weather-forecast/171240?day=5) [ Tue 1/27
+![](https://www.awxcdn.com/adc-assets/images/weathericons/7.svg) 2° -1° Cloudy
+![](https://www.awxcdn.com/adc-assets/images/weathericons/7.svg) Cloudy 25%
+](/en/de/leipzig/04109/daily-weather-forecast/171240?day=6) [ Wed 1/28
+![](https://www.awxcdn.com/adc-assets/images/weathericons/7.svg) 4° 0° Cloudy
+![](https://www.awxcdn.com/adc-assets/images/weathericons/12.svg) A little
+rain early; cloudy 25%  ](/en/de/leipzig/04109/daily-weather-
+forecast/171240?day=7) [ Thu 1/29 ![](https://www.awxcdn.com/adc-
+assets/images/weathericons/7.svg) 3° 0° Low clouds may break
+![](https://www.awxcdn.com/adc-assets/images/weathericons/36.svg) Partly
+cloudy 25%  ](/en/de/leipzig/04109/daily-weather-forecast/171240?day=8) [ Fri
+1/30 ![](https://www.awxcdn.com/adc-assets/images/weathericons/7.svg) 5° 2°
+Considerable cloudiness ![](https://www.awxcdn.com/adc-
+assets/images/weathericons/38.svg) Cloudy most of the time 25%
+](/en/de/leipzig/04109/daily-weather-forecast/171240?day=9) [ Sat 1/31
+![](https://www.awxcdn.com/adc-assets/images/weathericons/6.svg) 6° 0° Mostly
+cloudy ![](https://www.awxcdn.com/adc-assets/images/weathericons/7.svg)
+Overcast with a shower late 25%  ](/en/de/leipzig/04109/daily-weather-
+forecast/171240?day=10)
+
+##  Sun & Moon
+
+![](/images/whiteweathericons/1.svg) 8 hrs 41 mins
+
+Rise 8:02 AM
+
+Set 4:43 PM
+
+![](/images/moon-phases/light/WaxingCrescent.svg) Waxing Crescent
+
+Rise 9:35 AM
+
+Set 9:10 PM
+
+## [Air Quality See More Air Quality Unhealthy Health effects can be
+immediately felt by sensitive groups. Healthy individuals may experience
+difficulty breathing and throat irritation with prolonged exposure. Limit
+outdoor activity.  ](/en/de/leipzig/04109/air-quality-index/171240)
+
+##  Allergy Outlook
+
+[See All](/en/de/leipzig/04109/health-activities/171240)
+
+[ Tree Pollen Low Data is not supported in this location
+](/en/de/leipzig/04109/allergies-weather/171240?name=tree-pollen) [ Ragweed
+Pollen Low Data is not supported in this location
+](/en/de/leipzig/04109/allergies-weather/171240?name=ragweed-pollen) [ Mold
+Low Data is not supported in this location ](/en/de/leipzig/04109/allergies-
+weather/171240?name=mold) [ Grass Pollen Low Data is not supported in this
+location ](/en/de/leipzig/04109/allergies-weather/171240?name=grass-pollen) [
+Dust & Dander Very High Data is not supported in this location
+](/en/de/leipzig/04109/allergies-weather/171240?name=dust-dander)
+
+Contains modified Copernicus Atmosphere Monitoring Service information 2026
+
+Top Stories
+
+[ Winter Weather Ice storm threatens Texas to Virginia with massive power
+outages 46 minutes ago ](https://www.accuweather.com/en/winter-weather/ice-
+storm-threatens-texas-to-virginia-with-widespread-power-outages-travel-
+shutdowns/1855315) [ Weather News Salt Lake City rocked by magnitude 4.7
+earthquake 30 minutes ago ](https://www.accuweather.com/en/weather-news/salt-
+lake-city-rocked-by-magnitude-4-7-earthquake/1855346) [ Winter Weather Major
+snow, ice storm to affect 150 million across South, East U.S. 4 hours ago
+](https://www.accuweather.com/en/winter-weather/major-snow-ice-storm-to-
+affect-more-than-150-million-people-in-southern-eastern-us/1854647) [ Winter
+Weather Texas braces for major winter storm with cold not seen since 2021 20
+hours ago ](https://www.accuweather.com/en/winter-weather/winter-storm-brings-
+cold-not-seen-since-2021-putting-texas-power-grid-to-the-test/1855174) [
+Winter Weather Severe cold may lead to days of dangerous conditions 4 hours
+ago ](https://www.accuweather.com/en/winter-weather/severe-cold-in-wake-of-
+major-ice-storm-may-lead-to-days-of-dangerous-weather-conditions/1854992)
+[More Stories](https://www.accuweather.com/en/weather-news)
+
+Featured Stories
+
+[ Astronomy NASA astronaut Suni Williams retires months after return from
+troubled... 23 hours ago ](https://www.accuweather.com/en/space-news/nasa-
+astronaut-suni-williams-retires-months-after-return-from-troubled-mission-to-
+orbit/1855085) [ Weather News Deadly wildfires burned across southern Chile
+amid extreme heat and wi... 1 day ago
+](https://www.accuweather.com/en/weather-news/deadly-wildfires-burned-across-
+southern-chile-amid-extreme-heat-and-wind/1854447) [ Weather News Four shark
+attacks in two days. Why Australia's beaches are dangerous 1 day ago
+](https://www.accuweather.com/en/weather-news/four-shark-attacks-in-two-days-
+why-australias-beaches-are-so-dangerous-this-year/1854746) [ Travel Second
+rail tragedy rocks Spain, as passenger train derails 1 day ago
+](https://www.accuweather.com/en/travel/second-rail-tragedy-rocks-spain-as-
+passenger-train-derails-days-after-dozens-killed-in-high-speed-
+collision/1854998) [ Climate Why this famous iceberg turned blue and what it
+says about melting ice 5 days ago
+](https://www.accuweather.com/en/climate/why-this-famous-iceberg-turned-blue-
+and-what-it-tells-us-about-melting-ice/1853834)
+
+[World](/en/world-weather) [Europe](/en/europe-weather)
+[Germany](/en/de/germany-weather) [Saxony](/en/de/sn/saxony-weather)
+[Leipzig](/en/de/leipzig/04109/weather-forecast/171240)
+
+## Weather Near Leipzig:
+
+  * [ Dessau-Roßlau, Saxony-Anhalt ](/en/de/dessau-roßlau/06844/weather-forecast/171291)
+  * [ Gera, Thuringia ](/en/de/gera/07545/weather-forecast/171708)
+  * [ Halle, Saxony-Anhalt ](/en/de/halle/06108/weather-forecast/171292)
+
+Company
+
+[ Proven Superior Accuracy™ ](https://corporate.accuweather.com/) [ About
+AccuWeather ](https://corporate.accuweather.com/company/about-us/) [ Digital
+Advertising ](https://advertising.accuweather.com/for-advertising/digital-
+advertising/) [ Careers ](https://corporate.accuweather.com/company/careers/)
+[ Press ](https://corporate.accuweather.com/newsroom/press-releases/) [
+Contact Us ](/en/contact)
+
+Products & Services
+
+[ For Business ](https://afb.accuweather.com/) [ For Partners
+](https://partners.accuweather.com/) [ For Advertising
+](https://advertising.accuweather.com/) [ AccuWeather APIs
+](https://developer.accuweather.com/) [ AccuWeather Connect
+](https://afb.accuweather.com/accuweather-connect-and-content-syndication) [
+Personal Weather Stations ](https://app.accuweather.com/products/ambient-
+weather-stations)
+
+Apps & Downloads
+
+[ iPhone App ](https://go.onelink.me/app/ef253ee1) [ Android App
+](https://go.onelink.me/app/85d14e58) [ See all Apps & Downloads
+](https://7482826.hs-sites.com/premium-plus)
+
+Subscription Services
+
+[ AccuWeather Premium ](https://wwwl.accuweather.com/premium_login.php) [
+AccuWeather Professional ](https://wwwl.accuweather.com/pro_login.php)
+
+More
+
+[ AccuWeather Ready ](/en/accuweather-ready) [ Business ](/en/business) [
+Health ](/en/health-wellness) [ Hurricane ](/en/hurricane) [ Leisure and
+Recreation ](/en/leisure-recreation) [ Severe Weather ](/en/de/severe-weather)
+[ Space and Astronomy ](/en/space-news) [ Sports ](/en/sports) [ Travel
+](/en/travel) [ Weather News ](/en/weather-news)
+
+[ ](https://www.facebook.com/AccuWeather) [
+](https://twitter.com/BreakingWeather)
+
+Company
+
+[ Proven Superior Accuracy™ ](https://corporate.accuweather.com/) [ About
+AccuWeather ](https://corporate.accuweather.com/company/about-us/) [ Digital
+Advertising ](https://advertising.accuweather.com/for-advertising/digital-
+advertising/) [ Careers ](https://corporate.accuweather.com/company/careers/)
+[ Press ](https://corporate.accuweather.com/newsroom/press-releases/) [
+Contact Us ](/en/contact)
+
+Products & Services
+
+[ For Business ](https://afb.accuweather.com/) [ For Partners
+](https://partners.accuweather.com/) [ For Advertising
+](https://advertising.accuweather.com/) [ AccuWeather APIs
+](https://developer.accuweather.com/) [ AccuWeather Connect
+](https://afb.accuweather.com/accuweather-connect-and-content-syndication) [
+Personal Weather Stations ](https://app.accuweather.com/products/ambient-
+weather-stations)
+
+Apps & Downloads
+
+[ iPhone App ](https://go.onelink.me/app/ef253ee1) [ Android App
+](https://go.onelink.me/app/85d14e58) [ See all Apps & Downloads
+](https://7482826.hs-sites.com/premium-plus)
+
+Subscription Services
+
+[ AccuWeather Premium ](https://wwwl.accuweather.com/premium_login.php) [
+AccuWeather Professional ](https://wwwl.accuweather.com/pro_login.php)
+
+More
+
+[ AccuWeather Ready ](/en/accuweather-ready) [ Business ](/en/business) [
+Health ](/en/health-wellness) [ Hurricane ](/en/hurricane) [ Leisure and
+Recreation ](/en/leisure-recreation) [ Severe Weather ](/en/de/severe-weather)
+[ Space and Astronomy ](/en/space-news) [ Sports ](/en/sports) [ Travel
+](/en/travel) [ Weather News ](/en/weather-news)
+
+[ ](https://www.facebook.com/AccuWeather) [
+](https://twitter.com/BreakingWeather)
+
+(C) 2026 AccuWeather, Inc. "AccuWeather" and sun design are registered
+trademarks of AccuWeather, Inc. All Rights Reserved.
+
+[ Terms of Use ](/en/legal) | [ Privacy Policy ](/en/privacy) | [ Cookie Policy ](/en/cookiepolicy) | [ Data Sources ](/en/data-sources)
+
+...
+
+...
+
+...
+
+...
+
+...
+
+
+[RREF10] [https://weather.com/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4](https://weather.com/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+Hamburger [ The Weather Company ](/)
+
+  * [ Home Home](/)
+
+Home
+
+  * [ Today Today](/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Today
+
+  * [ Hourly Hourly](/weather/hourbyhour/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Hourly
+
+  * [ Close 10 Day](/weather/tenday/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+10 Day
+
+  * [ Monthly Monthly](/weather/monthly/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Monthly
+
+  * [ Radar Radar](/weather/radar/interactive/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Radar
+
+  * [ Video Video](/storms/winter/video/southeast-winter-ice-storm-weekend-travel-power-outages)
+
+Video
+
+  * [ ExploreNew](/explore)
+
+Explore
+
+  *   * Severe Weather
+
+    * [ Hurricane Hurricane Central](/storms/hurricane-central)
+
+Hurricane Central
+
+    * [ Tornado Tornado Central](/storms/tornado-central)
+
+Tornado Central
+
+    * [ Storm Safety & Prep](/safety/index)
+
+Safety & Prep
+
+  *   * Health & Wellness
+
+    * [ Allergy Allergy Tracker](/forecast/allergy/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Allergy Tracker
+
+    * [ Breathing Air Quality Index](/forecast/air-quality/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Air Quality Index
+
+    * [ Virus Cold & Flu Tracker](/forecast/cold-flu/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Cold & Flu Tracker
+
+    * [ Playlist Skin](/health/skin-health)
+
+Skin
+
+  *   * Lifestyle
+
+    * [ Playlist Home & Garden](/home-garden)
+
+Home & Garden
+
+    * [ Playlist Pets & Animals](/pets)
+
+Pets & Animals
+
+    * [ Playlist Recipes](/home-garden/recipes)
+
+Recipes
+
+    * [ Playlist Space & Skywatching](/science/space)
+
+Space & Skywatching
+
+    * [ Playlist Travel & Outdoors](/travel)
+
+Travel & Outdoors
+
+    * [ Products Product Reviews & Deals](/atmosphere)
+
+Product Reviews & Deals
+
+Close [ The Weather Company ](/)
+
+  * [ Home Home](/)
+
+Home
+
+  * [ Today Today](/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Today
+
+  * [ Hourly Hourly](/weather/hourbyhour/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Hourly
+
+  * [ Close 10 Day](/weather/tenday/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+10 Day
+
+  * [ Monthly Monthly](/weather/monthly/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Monthly
+
+  * [ Radar Radar](/weather/radar/interactive/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Radar
+
+  * [ Video Video](/storms/winter/video/southeast-winter-ice-storm-weekend-travel-power-outages)
+
+Video
+
+  * [ ExploreNew](/explore)
+
+Explore
+
+  *   * Severe Weather
+
+    * [ Hurricane Hurricane Central](/storms/hurricane-central)
+
+Hurricane Central
+
+    * [ Tornado Tornado Central](/storms/tornado-central)
+
+Tornado Central
+
+    * [ Storm Safety & Prep](/safety/index)
+
+Safety & Prep
+
+  *   * Health & Wellness
+
+    * [ Allergy Allergy Tracker](/forecast/allergy/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Allergy Tracker
+
+    * [ Breathing Air Quality Index](/forecast/air-quality/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Air Quality Index
+
+    * [ Virus Cold & Flu Tracker](/forecast/cold-flu/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Cold & Flu Tracker
+
+    * [ Playlist Skin](/health/skin-health)
+
+Skin
+
+  *   * Lifestyle
+
+    * [ Playlist Home & Garden](/home-garden)
+
+Home & Garden
+
+    * [ Playlist Pets & Animals](/pets)
+
+Pets & Animals
+
+    * [ Playlist Recipes](/home-garden/recipes)
+
+Recipes
+
+    * [ Playlist Space & Skywatching](/science/space)
+
+Space & Skywatching
+
+    * [ Playlist Travel & Outdoors](/travel)
+
+Travel & Outdoors
+
+    * [ Products Product Reviews & Deals](/atmosphere)
+
+Product Reviews & Deals
+
+Skip to Main Content[Accessibility
+Help](https://www.essentialaccessibility.com/the-weather-
+channel?utm_source=theweatherchannelhomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=theweatherchannel)[
+The Weather Company ](/)
+
+Type at least three characters to start auto complete. Recently searched
+locations will be displayed if there is no search query. The first option will
+be automatically selected. Use up and down arrows to change selection. Use
+escape to clear.Search City or Zip Code Search
+
+## Recents
+
+Clear
+
+You have no recent locations
+
+Globe US°F
+
+  * °F
+  * °C
+  * Hybrid
+
+Imperial - F / mph / miles / inches
+
+Americas Add
+
+[Antigua and Barbuda | English](/en-AG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Argentina | Español](/es-AR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Bahamas | English](/en-BS/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Barbados | English](/en-BB/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Belize | English](/en-BZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Bolivia | Español](/es-BO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Brazil | Português](/pt-BR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Canada | English](/en-CA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Canada | Français](/fr-CA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Chile | Español](/es-CL/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Colombia | Español](/es-CO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Costa Rica | Español](/es-CR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Dominica | English](/en-DM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Dominican Republic | Español](/es-DO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Ecuador | Español](/es-EC/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[El Salvador | Español](/es-SV/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Grenada | English](/en-GD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Guatemala | Español](/es-GT/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Guyana | English](/en-GY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Haiti | Français](/fr-HT/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Honduras | Español](/es-HN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Jamaica | English](/en-JM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mexico | Español](/es-MX/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Nicaragua | Español](/es-NI/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Panama | Español](/es-PA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Panama | English](/en-PA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Paraguay | Español](/es-PY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Peru | Español](/es-PE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[St. Kitts and Nevis | English](/en-KN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[St. Lucia | English](/en-LC/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[St. Vincent and the Grenadines | English](/en-VC/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Suriname | Nederlands](/nl-SR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Trinidad and Tobago | English](/en-TT/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Uruguay | Español](/es-UY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[United States | English](/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[United States | Español](/es-US/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Venezuela | Español](/es-VE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Africa Add
+
+[Algeria | العربية](/ar-DZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Algeria | Français](/fr-DZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Angola | Português](/pt-AO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Benin | Français](/fr-BJ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Burkina Faso | Français](/fr-BF/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Burundi | Français](/fr-BI/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Cameroon | Français](/fr-CM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Cameroon | English](/en-CM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Cape Verde | Português](/pt-CV/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Central African Republic | Français](/fr-CF/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Chad | Français](/fr-TD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Chad | العربية](/ar-TD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Comoros | Français](/fr-KM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Comoros | العربية](/ar-KM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Democratic Republic of the Congo | Français](/fr-CD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Republic of Congo | Français](/fr-CG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Côte d'Ivoire | Français](/fr-CI/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Djibouti | Français](/fr-DJ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Djibouti | العربية](/ar-DJ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Egypt | العربية](/ar-EG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Equatorial Guinea | Español](/es-GQ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Eritrea | العربية](/ar-ER/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Gabon | Français](/fr-GA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Gambia | English](/en-GM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Ghana | English](/en-GH/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Guinea | Français](/fr-GN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Guinea-Bissau | Português](/pt-GW/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Kenya | English](/en-KE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Lesotho | English](/en-LS/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Liberia | English](/en-LR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Libya | العربية](/ar-LY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Madagascar | Français](/fr-MG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mali | Français](/fr-ML/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mauritania | العربية](/ar-MR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mauritius | English](/en-MU/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mauritius | Français](/fr-MU/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Morocco | العربية](/ar-MA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Morocco | Français](/fr-MA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mozambique | Português](/pt-MZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Namibia | English](/en-NA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Niger | Français](/fr-NE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Nigeria | English](/en-NG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Rwanda | Français](/fr-RW/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Rwanda | English](/en-RW/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Sao Tome and Principe | Português](/pt-ST/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Senegal | Français](/fr-SN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Sierra Leone | English](/en-SL/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Somalia | العربية](/ar-SO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[South Africa | English](/en-ZA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[South Sudan | English](/en-SS/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Sudan | العربية](/ar-SD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Swaziland | English](/en-SZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Tanzania | English](/en-TZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Togo | Français](/fr-TG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Tunisia | العربية](/ar-TN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Uganda | English](/en-UG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Asia Pacific Add
+
+[Australia | English](/en-AU/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Bangladesh | বাংলা](/bn-BD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Brunei | Bahasa Melayu](/ms-BN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[China | 中文](/zh-CN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Hong Kong SAR | 中文](/zh-HK/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[East Timor | Português](/pt-TP/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Fiji | English](/en-FJ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[India (English) | English](/en-IN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[India (Hindi) | हिन्दी](/hi-IN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Indonesia | Bahasa Indonesia](/id-ID/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Japan | 日本語](/ja-JP/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Kiribati | English](/en-KI/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[South Korea | 한국어](/ko-KR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Kyrgyzstan | Русский](/ru-KG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Malaysia | Bahasa Melayu](/ms-MY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Marshall Islands | English](/en-MH/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Micronesia | English](/en-FM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[New Zealand | English](/en-NZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Palau | English](/en-PW/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Philippines | English](/en-PH/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Philippines | Tagalog](/tl-PH/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Samoa | English](/en-AS/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Singapore | English](/en-SG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Singapore | 中文](/zh-SG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Solomon Islands | English](/en-SB/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Taiwan | 中文](/zh-TW/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Thailand | ไทย](/th-TH/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Tonga | English](/en-TO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Tuvalu | English](/en-TV/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Vanuatu | English](/en-VU/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Vanuatu | Français](/fr-VU/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Vietnam | Tiếng Việt](/vi-VN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Europe Add
+
+[Andorra | Català](/ca-AD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Andorra | Français](/fr-AD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Austria | Deutsch](/de-AT/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Belarus | Русский](/ru-BY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Belgium | Dutch](/nl-BE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Belgium | Français](/fr-BE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Bosnia and Herzegovina | Hrvatski](/hr-BA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Croatia | Hrvatski](/hr-HR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Cyprus | Ελληνικά](/el-CY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Czech Republic | Čeština](/cs-CZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Denmark | Dansk](/da-DK/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Estonia | Русский](/ru-EE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Estonia | Eesti](/et-EE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Finland | Suomi](/fi-FI/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[France | Français](/fr-FR/weather/today/l/c63ba1438b50219d26240b2a833bc6
+[RREF11] [https://www.wunderground.com/forecast/de/leipzig](https://www.wunderground.com/forecast/de/leipzig)
+Skip to Main Content [_ ](/ "Weather Underground") Sensor Network  Maps &
+Radar  Severe Weather  News & Blogs  Mobile Apps
+
+More
+
+Search _close_ _gps_fixed_
+
+  *  _gps_fixed_ Find Nearest Station 
+
+  * [Manage Favorite Cities](/member/favorites)
+
+[Log In](/login)
+
+[ _account_box_ Log in ](/login)_settings_ Settings Sensor NetworkMaps &
+RadarSevere WeatherNews & BlogsMobile Apps[Historical Weather](/history/)
+
+Search _close_ _gps_fixed_
+
+  *  _gps_fixed_ Find Nearest Station 
+
+  * [Manage Favorite Cities](/member/favorites)
+
+ _settings_
+
+ _warning_**Active Watch** : [Severe Warning for Low
+Temperature](/severe/de/leipzig)  ([See More](/severe/de/leipzig))
+
+Elev **122** ft, **51.34** °N, **12.38** °E
+
+# Leipzig, Saxony, Germany 10-Day Weather Forecast _star_rate_ _home_
+
+![icon](//www.wunderground.com/static/i/c/v4/31.svg) 31 °F Zentrum-Ost
+Station|Report
+
+Report Station
+
+Thank you for reporting this station. We will review the data in question.
+
+You are about to report this weather station for bad data. Please select the
+information that is incorrect.
+
+Temperature
+
+Pressure
+
+Wind
+
+Forecast
+
+Station Offline
+
+Send Report
+
+|Change
+
+ __
+
+__
+
+[See more](/wundermap/?lat=51.339043&lon=12.384283&zoom=12&wxsn=1)
+
+(Reset Map)
+
+Current Station
+
+Personal Weather Station
+
+[ Zentrum-Ost (ILEIPZ481)](/history/daily/de/leipzig/ILEIPZ481/date/2026-1-22)
+
+Location: **Leipzig , Saxony, Germany**
+
+Elevation: 122ft
+
+Nearby Weather Stations
+
+No PWS
+
+Reset Map, or [Add PWS](/member/devices/new).
+
+[zoom out](javascript:void\(0\);)
+
+Showing Stations
+
+ _settings_ Customize
+
+PreviousNext
+
+[ _date_range_ View Calendar Forecast ](/calendar/de/leipzig/EDDP)
+
+Top Video Stories
+
+  *  _keyboard_arrow_left_
+  *  _keyboard_arrow_right_
+
+[See more Top Video Stories](/video/top-stories)
+
+Additional Conditions
+
+Pressure
+
+29.58 °in
+
+Visibility
+
+8 °miles
+
+Clouds
+
+Clear
+
+Dew Point
+
+19 °F
+
+Humidity
+
+69 °%
+
+Rainfall
+
+0 °in
+
+Snow Depth
+
+0 °in
+
+Top Video Stories
+
+  *  _keyboard_arrow_left_
+  *  _keyboard_arrow_right_
+
+[See more Top Video Stories](/video/top-stories)
+
+Astronomy
+
+Sun
+
+Rise
+
+Set
+
+Actual Time
+
+8:03 AM
+
+4:42 PM
+
+Civil Twilight
+
+7:25 AM
+
+5:20 PM
+
+Nautical Twilight
+
+6:44 AM
+
+6:01 PM
+
+Astronomical Twilight
+
+6:05 AM
+
+6:40 PM
+
+Length of Visible Light
+
+9 h 54 m
+
+Length of Day
+
+8 h 39 m
+
+Tomorrow will be 2 minutes 50 seconds longer
+
+Moon
+
+9:35 AM
+
+9:10 PM
+
+![icon](//www.wunderground.com/static/i/moon/n-03.svg)
+
+waxing crescent
+
+16% of the Moon is Illuminated
+
+![icon](//www.wunderground.com/static/i/moon/n-07.svg)
+
+Jan 26
+
+Waxing Half First Qtr
+
+![icon](//www.wunderground.com/static/i/moon/n-15.svg)
+
+Feb 1
+
+Full Moon
+
+![icon](//www.wunderground.com/static/i/moon/n-22.svg)
+
+Feb 9
+
+Waning Half Last Qtr
+
+![icon](//www.wunderground.com/static/i/moon/n-01.svg)
+
+Feb 17
+
+New Moon
+
+  * [Our Apps](/download "Weather Underground Mobile Apps")
+  * [About Us](/about/our-company "About Weather Underground")
+  * [Contact](/about/contact-us "Contact Weather Underground")
+  * [Careers](https://www.weathercompany.com/careers)
+
+  * [PWS Network](/pws/overview "Personal Weather Station Network")
+  * [WunderMap](/wundermap "Experience WunderMap")
+  * [Feedback & Support](https://www.wunderground.com/feedback "Customer Feedback for Weather Underground")
+
+  * [Terms of Use](/company/legal)
+  * [Privacy Policy](/company/privacy-policy)
+  * [Accessibility Statement](/accessibility-statement)
+  * [AdChoices](/company/ad-choices)
+  * [Data Vendors](/data-vendors)
+
+[](https://www.essentialaccessibility.com/the-weather-
+channel?utm_source=theweatherchannelhomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=theweatherchannel)
+
+We recognize our responsibility to use data and technology for good. We may
+use or share your data with our data vendors. Take control of your data.
+
+  * [Data Rights](/data-rights)
+
+[![The Weather Company Logo](//www.wunderground.com/static/i/misc/twc-
+white.svg)](https://www.weathercompany.com)[![The Weather Channel
+Logo](//www.wunderground.com/static/i/misc/twc-
+knockout.svg)](https://weather.com)[![Weather Underground
+Logo](//www.wunderground.com/static/i/misc/wu-
+knockout.svg)](https://www.wunderground.com)[![Storm Radar
+Logo](//www.wunderground.com/static/i/misc/sr-
+knockout.png)](https://weather.com/storm-radar)
+
+© The Weather Company, LLC 2026
+
+Please enable JavaScript to continue using this application.
+
+
+[RREF12] [https://weather.com/weather/tenday/l/Zentrum+Saxony+04109+Germany?canonicalCityId=cbe83866ccca16275481e6215afa7b1b](https://weather.com/weather/tenday/l/Zentrum+Saxony+04109+Germany?canonicalCityId=cbe83866ccca16275481e6215afa7b1b)
+Hamburger [ The Weather Company ](/)
+
+  * [ Home Home](/)
+
+Home
+
+  * [ Today Today](/weather/today/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+Today
+
+  * [ Hourly Hourly](/weather/hourbyhour/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+Hourly
+
+  * [ Daily 10 Day](/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+10 Day
+
+  * [ Monthly Monthly](/weather/monthly/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+Monthly
+
+  * [ Radar Radar](/weather/radar/interactive/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+Radar
+
+  * [ Video Video](/storms/winter/video/southeast-winter-ice-storm-weekend-travel-power-outages)
+
+Video
+
+  * [ ExploreNew](/explore)
+
+Explore
+
+  *   * Severe Weather
+
+    * [ Hurricane Hurricane Central](/storms/hurricane-central)
+
+Hurricane Central
+
+    * [ Tornado Tornado Central](/storms/tornado-central)
+
+Tornado Central
+
+    * [ Storm Safety & Prep](/safety/index)
+
+Safety & Prep
+
+  *   * Health & Wellness
+
+    * [ Allergy Allergy Tracker](/forecast/allergy/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+Allergy Tracker
+
+    * [ Breathing Air Quality Index](/forecast/air-quality/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+Air Quality Index
+
+    * [ Virus Cold & Flu Tracker](/forecast/cold-flu/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+Cold & Flu Tracker
+
+    * [ Playlist Skin](/health/skin-health)
+
+Skin
+
+  *   * Lifestyle
+
+    * [ Playlist Home & Garden](/home-garden)
+
+Home & Garden
+
+    * [ Playlist Pets & Animals](/pets)
+
+Pets & Animals
+
+    * [ Playlist Recipes](/home-garden/recipes)
+
+Recipes
+
+    * [ Playlist Space & Skywatching](/science/space)
+
+Space & Skywatching
+
+    * [ Playlist Travel & Outdoors](/travel)
+
+Travel & Outdoors
+
+    * [ Products Product Reviews & Deals](/atmosphere)
+
+Product Reviews & Deals
+
+Close [ The Weather Company ](/)
+
+  * [ Home Home](/)
+
+Home
+
+  * [ Today Today](/weather/today/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+Today
+
+  * [ Hourly Hourly](/weather/hourbyhour/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+Hourly
+
+  * [ Daily 10 Day](/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+10 Day
+
+  * [ Monthly Monthly](/weather/monthly/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+Monthly
+
+  * [ Radar Radar](/weather/radar/interactive/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+Radar
+
+  * [ Video Video](/storms/winter/video/southeast-winter-ice-storm-weekend-travel-power-outages)
+
+Video
+
+  * [ ExploreNew](/explore)
+
+Explore
+
+  *   * Severe Weather
+
+    * [ Hurricane Hurricane Central](/storms/hurricane-central)
+
+Hurricane Central
+
+    * [ Tornado Tornado Central](/storms/tornado-central)
+
+Tornado Central
+
+    * [ Storm Safety & Prep](/safety/index)
+
+Safety & Prep
+
+  *   * Health & Wellness
+
+    * [ Allergy Allergy Tracker](/forecast/allergy/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+Allergy Tracker
+
+    * [ Breathing Air Quality Index](/forecast/air-quality/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+Air Quality Index
+
+    * [ Virus Cold & Flu Tracker](/forecast/cold-flu/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+Cold & Flu Tracker
+
+    * [ Playlist Skin](/health/skin-health)
+
+Skin
+
+  *   * Lifestyle
+
+    * [ Playlist Home & Garden](/home-garden)
+
+Home & Garden
+
+    * [ Playlist Pets & Animals](/pets)
+
+Pets & Animals
+
+    * [ Playlist Recipes](/home-garden/recipes)
+
+Recipes
+
+    * [ Playlist Space & Skywatching](/science/space)
+
+Space & Skywatching
+
+    * [ Playlist Travel & Outdoors](/travel)
+
+Travel & Outdoors
+
+    * [ Products Product Reviews & Deals](/atmosphere)
+
+Product Reviews & Deals
+
+Skip to Main Content[Accessibility
+Help](https://www.essentialaccessibility.com/the-weather-
+channel?utm_source=theweatherchannelhomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=theweatherchannel)[
+The Weather Company ](/)
+
+Type at least three characters to start auto complete. Recently searched
+locations will be displayed if there is no search query. The first option will
+be automatically selected. Use up and down arrows to change selection. Use
+escape to clear.Search City or Zip Code Search
+
+## Recents
+
+Clear
+
+You have no recent locations
+
+Globe US°F
+
+  * °F
+  * °C
+  * Hybrid
+
+Imperial - F / mph / miles / inches
+
+Americas Add
+
+[Antigua and Barbuda | English](/en-AG/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Argentina | Español](/es-AR/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Bahamas | English](/en-BS/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Barbados | English](/en-BB/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Belize | English](/en-BZ/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Bolivia | Español](/es-BO/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Brazil | Português](/pt-BR/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Canada | English](/en-CA/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Canada | Français](/fr-CA/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Chile | Español](/es-CL/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Colombia | Español](/es-CO/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Costa Rica | Español](/es-CR/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Dominica | English](/en-DM/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Dominican Republic | Español](/es-DO/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Ecuador | Español](/es-EC/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[El Salvador | Español](/es-SV/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Grenada | English](/en-GD/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Guatemala | Español](/es-GT/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Guyana | English](/en-GY/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Haiti | Français](/fr-HT/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Honduras | Español](/es-HN/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Jamaica | English](/en-JM/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Mexico | Español](/es-MX/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Nicaragua | Español](/es-NI/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Panama | Español](/es-PA/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Panama | English](/en-PA/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Paraguay | Español](/es-PY/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Peru | Español](/es-PE/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[St. Kitts and Nevis | English](/en-KN/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[St. Lucia | English](/en-LC/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[St. Vincent and the Grenadines | English](/en-VC/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Suriname | Nederlands](/nl-SR/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Trinidad and Tobago | English](/en-TT/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Uruguay | Español](/es-UY/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[United States | English](/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[United States | Español](/es-US/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Venezuela | Español](/es-VE/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+Africa Add
+
+[Algeria | العربية](/ar-DZ/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Algeria | Français](/fr-DZ/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Angola | Português](/pt-AO/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Benin | Français](/fr-BJ/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Burkina Faso | Français](/fr-BF/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Burundi | Français](/fr-BI/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Cameroon | Français](/fr-CM/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Cameroon | English](/en-CM/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Cape Verde | Português](/pt-CV/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Central African Republic | Français](/fr-CF/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Chad | Français](/fr-TD/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Chad | العربية](/ar-TD/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Comoros | Français](/fr-KM/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Comoros | العربية](/ar-KM/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Democratic Republic of the Congo | Français](/fr-CD/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Republic of Congo | Français](/fr-CG/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Côte d'Ivoire | Français](/fr-CI/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Djibouti | Français](/fr-DJ/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Djibouti | العربية](/ar-DJ/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Egypt | العربية](/ar-EG/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Equatorial Guinea | Español](/es-GQ/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Eritrea | العربية](/ar-ER/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Gabon | Français](/fr-GA/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Gambia | English](/en-GM/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Ghana | English](/en-GH/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Guinea | Français](/fr-GN/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Guinea-Bissau | Português](/pt-GW/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Kenya | English](/en-KE/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Lesotho | English](/en-LS/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Liberia | English](/en-LR/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Libya | العربية](/ar-LY/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Madagascar | Français](/fr-MG/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Mali | Français](/fr-ML/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Mauritania | العربية](/ar-MR/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Mauritius | English](/en-MU/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Mauritius | Français](/fr-MU/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Morocco | العربية](/ar-MA/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Morocco | Français](/fr-MA/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Mozambique | Português](/pt-MZ/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Namibia | English](/en-NA/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Niger | Français](/fr-NE/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Nigeria | English](/en-NG/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Rwanda | Français](/fr-RW/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Rwanda | English](/en-RW/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Sao Tome and Principe | Português](/pt-ST/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Senegal | Français](/fr-SN/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Sierra Leone | English](/en-SL/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Somalia | العربية](/ar-SO/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[South Africa | English](/en-ZA/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[South Sudan | English](/en-SS/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Sudan | العربية](/ar-SD/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Swaziland | English](/en-SZ/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Tanzania | English](/en-TZ/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Togo | Français](/fr-TG/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Tunisia | العربية](/ar-TN/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Uganda | English](/en-UG/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+Asia Pacific Add
+
+[Australia | English](/en-AU/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Bangladesh | বাংলা](/bn-BD/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Brunei | Bahasa Melayu](/ms-BN/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[China | 中文](/zh-CN/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Hong Kong SAR | 中文](/zh-HK/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[East Timor | Português](/pt-TP/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Fiji | English](/en-FJ/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[India (English) | English](/en-IN/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[India (Hindi) | हिन्दी](/hi-IN/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Indonesia | Bahasa Indonesia](/id-ID/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Japan | 日本語](/ja-JP/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Kiribati | English](/en-KI/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[South Korea | 한국어](/ko-KR/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Kyrgyzstan | Русский](/ru-KG/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Malaysia | Bahasa Melayu](/ms-MY/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Marshall Islands | English](/en-MH/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Micronesia | English](/en-FM/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[New Zealand | English](/en-NZ/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Palau | English](/en-PW/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Philippines | English](/en-PH/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Philippines | Tagalog](/tl-PH/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Samoa | English](/en-AS/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Singapore | English](/en-SG/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Singapore | 中文](/zh-SG/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Solomon Islands | English](/en-SB/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Taiwan | 中文](/zh-TW/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Thailand | ไทย](/th-TH/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Tonga | English](/en-TO/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Tuvalu | English](/en-TV/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Vanuatu | English](/en-VU/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Vanuatu | Français](/fr-VU/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Vietnam | Tiếng Việt](/vi-VN/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)
+
+Europe Add
+
+[Andorra | Català](/ca-AD/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Andorra | Français](/fr-AD/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Austria | Deutsch](/de-AT/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Belarus | Русский](/ru-BY/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Belgium | Dutch](/nl-BE/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Belgium | Français](/fr-BE/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Bosnia and Herzegovina | Hrvatski](/hr-BA/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Croatia | Hrvatski](/hr-HR/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Cyprus | Ελληνικά](/el-CY/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Czech Republic | Čeština](/cs-CZ/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Denmark | Dansk](/da-DK/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Estonia | Русский](/ru-EE/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Estonia | Eesti](/et-EE/weather/tenday/l/1fd502ff47409a67d36aba73a2a9a7af2a3db25a849baab8cc006bfdd4bbc469)[Finland | Suomi](/fi-FI/weather/tenday/l
+[RREF10] [https://wttr.in/Leipzig?format=3](https://wttr.in/Leipzig?format=3)
+Leipzig: ☀️ -3°C
+
+
+[RREF10] [https://wttr.in/Leipzig?format=%C2%B0C+%C2%B0F](https://wttr.in/Leipzig?format=%C2%B0C+%C2%B0F)
+°C °F
+
+
+[RREF10] [https://wttr.in/Leipzig?format=%l:+%c+%t+%w](https://wttr.in/Leipzig?format=%l:+%c+%t+%w)
+Leipzig: ☀️ -3°C ←9km/h
+
+
+[RREF10] [https://api.open-meteo.com/v1/forecast?latitude=51.3397&longitude=12.3731&current_weather=true](https://api.open-meteo.com/v1/forecast?latitude=51.3397&longitude=12.3731&current_weather=true)
+{"latitude":51.34,"longitude":12.379999,"generationtime_ms":0.08797645568847656,"utc_offset_seconds":0,"timezone":"GMT","timezone_abbreviation":"GMT","elevation":115.0,"current_weather_units":{"time":"iso8601","interval":"seconds","temperature":"°C","windspeed":"km/h","winddirection":"°","is_day":"","weathercode":"wmo
+code"},"current_weather":{"time":"2026-01-22T16:30","interval":900,"temperature":-0.6,"windspeed":1.8,"winddirection":143,"is_day":0,"weathercode":0}}
+
+
+[RREF10] [https://api.open-meteo.com/v1/forecast?latitude=51.3397&longitude=12.3731&current_weather=true](https://api.open-meteo.com/v1/forecast?latitude=51.3397&longitude=12.3731&current_weather=true)
+{"latitude":51.34,"longitude":12.379999,"generationtime_ms":0.06890296936035156,"utc_offset_seconds":0,"timezone":"GMT","timezone_abbreviation":"GMT","elevation":115.0,"current_weather_units":{"time":"iso8601","interval":"seconds","temperature":"°C","windspeed":"km/h","winddirection":"°","is_day":"","weathercode":"wmo
+code"},"current_weather":{"time":"2026-01-22T16:30","interval":900,"temperature":-0.6,"windspeed":1.8,"winddirection":143,"is_day":0,"weathercode":0}}
+
+
+[RREF10] [https://www.weather.gov/wwamap/wwatxtget.php?cwa=bis&wwa=all](https://www.weather.gov/wwamap/wwatxtget.php?cwa=bis&wwa=all)
+[weather.gov](https://www.weather.gov "Go to the NWS Homepage")  
+
+National Weather Service  
+  
+Watches, Warnings & Advisories
+
+[![Go to the NOAA Homepage](/images/wtf/noaalink.gif)](http://www.noaa.gov/)
+
+[![NWS Homepage](/images/wtf/noaalink.gif)](https://www.weather.gov)
+
+Local weather forecast by "City, St" or zip code
+
+  
+
+### Extreme Cold Warning
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Grand Forks ND
+    950 AM CST Thu Jan 22 2026
+    
+    MNZ001-002-004>009-013>017-022-023-NDZ006>008-014>016-024-026>030-
+    054-230000-
+    /O.CON.KFGF.EC.W.0001.000000T0000Z-260123T1800Z/
+    /O.CON.KFGF.EC.A.0001.260123T1800Z-260125T1800Z/
+    West Polk-Norman-Kittson-Roseau-Lake Of The Woods-West Marshall-
+    East Marshall-North Beltrami-Pennington-Red Lake-East Polk-North
+    Clearwater-South Beltrami-Mahnomen-South Clearwater-Towner-
+    Cavalier-Pembina-Benson-Ramsey-Eastern Walsh-Eddy-Nelson-Grand
+    Forks-Griggs-Steele-Traill-Western Walsh-
+    Including the cities of Warren, Bemidji, Fosston, Devils Lake,
+    Langdon, Thief River Falls, Bagley, Cavalier, Red Lake,
+    Hillsboro, Michigan, Mahnomen, Lake Itasca, Middle River,
+    Halstad, New Rockford, Mayville, East Grand Forks, Hallock,
+    Baudette, Lankin, Leeds, Crookston, Drayton, Ada, Grand Forks,
+    Cooperstown, Red Lake Falls, Roseau, Cando, Finley, Newfolden,
+    and Grafton
+    950 AM CST Thu Jan 22 2026
+    
+    ...EXTREME COLD WARNING REMAINS IN EFFECT UNTIL NOON CST FRIDAY...
+    ...EXTREME COLD WATCH REMAINS IN EFFECT FROM FRIDAY AFTERNOON
+    THROUGH SUNDAY MORNING...
+    
+    * WHAT...For the Extreme Cold Warning, dangerously cold wind chills
+      as low as 55 below. For the Extreme Cold Watch, dangerously cold
+      wind chills as low as 55 below possible.
+    
+    * WHERE...Portions of north central and northwest Minnesota and
+      northeast and southeast North Dakota.
+    
+    * WHEN...For the Extreme Cold Warning, until noon CST Friday. For
+      the Extreme Cold Watch, from Friday afternoon through Sunday
+      morning.
+    
+    * IMPACTS...The dangerously cold wind chills as low as 55 below zero
+      could cause frostbite on exposed skin in as little as 5 minutes.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    Dress in layers including a hat, face mask, and gloves if you must
+    go outside.
+    
+    Keep pets indoors as much as possible.
+    
+    Make sure outdoor animals have a warm, dry shelter, food, and
+    unfrozen water.
+    
+    Make frequent checks on older family, friends, and neighbors. Ensure
+    portable heaters are used correctly. Do not use generators or grills
+    inside.
+    
+    &&
+    
+    $$
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Grand Forks ND
+    950 AM CST Thu Jan 22 2026
+    
+    MNZ003-024-027-028-NDZ038-039-230000-
+    /O.CON.KFGF.EC.W.0001.260122T1800Z-260123T1800Z/
+    /O.CON.KFGF.CW.Y.0004.000000T0000Z-260122T1800Z/
+    /O.CON.KFGF.EC.A.0001.260123T1800Z-260125T1800Z/
+    Clay-Hubbard-West Becker-East Becker-Barnes-Cass-
+    Including the cities of Fargo, Two Inlets, Moorhead, Park Rapids,
+    Valley City, and Detroit Lakes
+    950 AM CST Thu Jan 22 2026
+    
+    ...COLD WEATHER ADVISORY REMAINS IN EFFECT UNTIL NOON CST TODAY...
+    ...EXTREME COLD WARNING REMAINS IN EFFECT UNTIL NOON CST FRIDAY...
+    ...EXTREME COLD WATCH REMAINS IN EFFECT FROM FRIDAY AFTERNOON
+    THROUGH SUNDAY MORNING...
+    
+    * WHAT...For the Cold Weather Advisory, very cold wind chills as low
+      as 40 below. For the Extreme Cold Warning, dangerously cold wind
+      chills as low as 55 below expected. For the Extreme Cold Watch,
+      dangerously cold wind chills as low as 45 below possible.
+    
+    * WHERE...In Minnesota, Hubbard, East Becker, West Becker, and Clay
+      Counties. In North Dakota, Barnes and Cass Counties.
+    
+    * WHEN...For the Cold Weather Advisory, until noon CST today. For
+      the Extreme Cold Warning, until noon CST Friday. For the Extreme
+      Cold Watch, from Friday afternoon through Sunday morning.
+    
+    * IMPACTS...The dangerously cold wind chills as low as 55 below zero
+      could cause frostbite on exposed skin in as little as 5 minutes.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    Dress in layers including a hat, face mask, and gloves if you must
+    go outside.
+    
+    Use caution while traveling outside. Wear appropriate clothing, a
+    hat, and gloves.
+    
+    &&
+    
+    $$
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Grand Forks ND
+    950 AM CST Thu Jan 22 2026
+    
+    MNZ029>032-040-NDZ049-052-053-230000-
+    /O.CON.KFGF.EC.W.0001.260122T1800Z-260123T1800Z/
+    /O.CON.KFGF.EC.A.0001.260123T1800Z-260125T1800Z/
+    Wilkin-West Otter Tail-East Otter Tail-Wadena-Grant-Ransom-
+    Sargent-Richland-
+    Including the cities of Forman, Wadena, Gwinner, Breckenridge,
+    Wahpeton, Lisbon, Elbow Lake, New York Mills, and Fergus Falls
+    950 AM CST Thu Jan 22 2026
+    
+    ...EXTREME COLD WARNING REMAINS IN EFFECT UNTIL NOON CST FRIDAY...
+    ...EXTREME COLD WATCH REMAINS IN EFFECT FROM FRIDAY AFTERNOON
+    THROUGH SUNDAY MORNING...
+    
+    * WHAT...For the Extreme Cold Warning, dangerously cold wind chills
+      as low as 50 below expected. For the Extreme Cold Watch,
+      dangerously cold wind chills as low as 45 below possible.
+    
+    * WHERE...In Minnesota, Wadena, East Otter Tail, Grant, West Otter
+      Tail, and Wilkin Counties. In North Dakota, Ransom, Richland, and
+      Sargent Counties.
+    
+    * WHEN...For the Extreme Cold Warning, until noon CST Friday. For
+      the Extreme Cold Watch, from Friday afternoon through Sunday
+      morning.
+    
+    * IMPACTS...The dangerously cold wind chills as low as 50 below zero
+      could cause frostbite on exposed skin in as little as 10 minutes.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    Plan to limit time outside. Dress in layers including a hat, face
+    mask, and gloves if you must go outside. Make precautions to
+    mitigate impacts to livestock. Carry a winter survival kit in your
+    vehicle.
+    
+    &&
+    
+    $$
+    
+    Rafferty
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Bismarck ND
+    626 AM CST Thu Jan 22 2026
+    
+    NDZ001>005-009>013-021>023-025-035>037-046>048-050-051-222030-
+    /O.CON.KBIS.EC.W.0001.000000T0000Z-260125T1800Z/
+    Divide-Burke-Renville-Bottineau-Rolette-Williams-Mountrail-Ward-
+    McHenry-Pierce-McLean-Sheridan-Wells-Foster-Burleigh-Kidder-Stutsman-
+    Emmons-Logan-La Moure-McIntosh-Dickey-
+    Including the cities of New Town, Towner, Bottineau, Harvey, Steele,
+    Powers Lake, Velva, Drake, Ashley, Lignite, Wishek, Tappen,
+    Fessenden, Rolette, Rugby, Williston, Mcclusky, Edgeley, Portal,
+    Garrison, Mohall, Columbus, Jamestown, Strasburg, Ellendale,
+    Bowbells, Gackle, Turtle Lake, Stanley, Linton, Sherwood, Minot,
+    Wilton, Goodrich, Oakes, Carrington, Underwood, Shell Valley,
+    Parshall, Dunseith, Kulm, Lamoure, Bismarck, Rolla,
+    Crosby, Napoleon, Glenburn, Washburn, and St. John
+    626 AM CST Thu Jan 22 2026
+    
+    ...EXTREME COLD WARNING REMAINS IN EFFECT UNTIL NOON CST SUNDAY...
+    
+    * WHAT...Life-threatening wind chills as low as 55 below zero
+      expected.
+    
+    * WHERE...Northern and central North Dakota, including the James
+      River Valley.
+    
+    * WHEN...Until noon CST Sunday.
+    
+    * IMPACTS...The life-threatening wind chills will cause frostbite on
+      exposed skin in as little as 5 minutes. Hypothermia could develop
+      shortly thereafter.
+    
+    * ADDITIONAL DETAILS...The coldest period during this long-duration
+      event is expected tonight through Friday.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    This is a potentially dangerous situation to be outdoors. If you must
+    be outside, be sure to cover all exposed skin.
+    
+    &&
+    
+    $$
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Bismarck ND
+    626 AM CST Thu Jan 22 2026
+    
+    NDZ017>020-031>034-040>045-222030-
+    /O.CON.KBIS.EC.W.0001.260123T0000Z-260123T1800Z/
+    McKenzie-Dunn-Mercer-Oliver-Golden Valley-Billings-Stark-Morton-
+    Slope-Hettinger-Grant-Bowman-Adams-Sioux-
+    Including the cities of New England, Carson, Elgin, Bowman,
+    Hettinger, Medora, Watford City, Halliday, Fort Yates, Marmarth,
+    Beach, New Leipzig, Dickinson, Solen, Hazen, Selfridge, Beulah, Mott,
+    Center, Mandan, and Killdeer
+    626 AM CST Thu Jan 22 2026 /526 AM MST Thu Jan 22 2026/
+    
+    ...EXTREME COLD WARNING REMAINS IN EFFECT FROM 6 PM CST /5 PM MST/
+    THIS EVENING TO NOON CST /11 AM MST/ FRIDAY...
+    
+    * WHAT...Dangerously cold wind chills as low as 45 below zero
+      expected.
+    
+    * WHERE...Portions of western and south central North Dakota.
+    
+    * WHEN...From 6 PM CST /5 PM MST/ this evening to noon CST /11 AM
+      MST/ Friday.
+    
+    * IMPACTS...The dangerously cold wind chills will cause frostbite on
+      exposed skin in as little as 10 minutes.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    This is a potentially dangerous situation to be outdoors. If you must
+    be outside, be sure to cover all exposed skin.
+    
+    &&
+    
+    $$
+    
+    Hollan
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Glasgow MT
+    224 AM MST Thu Jan 22 2026
+    
+    MTZ018>020-024-061-062-222200-
+    /O.CON.KGGW.EC.W.0001.260122T1000Z-260125T2000Z/
+    Daniels-Sheridan-Western Roosevelt-Richland-Northern Valley-
+    Eastern Roosevelt-
+    Including Culbertson, Wolf Point, Medicine Lake, Scobey, Opheim,
+    Plentywood, Sidney, Fairview, and Poplar
+    224 AM MST Thu Jan 22 2026
+    
+    ...EXTREME COLD WARNING REMAINS IN EFFECT UNTIL 1 PM MST SUNDAY...
+    
+    * WHAT...Dangerously cold wind chills as low as 45 below expected.
+    
+    * WHERE...Daniels, Northern Valley, Richland, Sheridan, and
+      Roosevelt Counties.
+    
+    * WHEN...Until 1 PM MST Sunday.
+    
+    * IMPACTS...The dangerously cold wind chills as low as 40 below zero
+      could cause frostbite on exposed skin in as little as 10 minutes.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    Dress in layers including a hat, face mask, and gloves if you must
+    go outside.
+    
+    Keep pets indoors as much as possible.
+    
+    Make sure outdoor animals have a warm, dry shelter, food, and
+    unfrozen water.
+    
+    Make frequent checks on older family, friends, and neighbors. Ensure
+    portable heaters are used correctly. Do not use generators or grills
+    inside.
+    
+    
+    &&
+    
+    $$
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Aberdeen SD
+    235 AM CST Thu Jan 22 2026
+    
+    MNZ039-046-SDZ003>011-015>023-034-036-037-221845-
+    /O.UPG.KABR.EC.A.0001.260123T0000Z-260123T2100Z/
+    /O.NEW.KABR.EC.W.0001.260123T0000Z-260123T2100Z/
+    Traverse-Big Stone-Corson-Campbell-McPherson-Brown-Marshall-
+    Roberts-Walworth-Edmunds-Day-Dewey-Potter-Faulk-Spink-Clark-
+    Codington-Grant-Hamlin-Deuel-Sully-Hyde-Hand-
+    Including the cities of Faulkton, Gettysburg, Isabel, Hayti,
+    Webster, Milbank, Aberdeen, Ipswich, Clear Lake, Britton,
+    Wheaton, Redfield, Herreid, Eureka, Ortonville, Sisseton, Onida,
+    McIntosh, Mobridge, Clark, Miller, Highmore, and Watertown
+    235 AM CST Thu Jan 22 2026 /135 AM MST Thu Jan 22 2026/
+    
+    ...EXTREME COLD WARNING IN EFFECT FROM 6 PM CST /5 PM MST/ THIS
+    EVENING TO 3 PM CST /2 PM MST/ FRIDAY...
+    
+    * WHAT...Dangerously cold wind chills as low as 45 below expected.
+    
+    * WHERE...Portions of west central Minnesota and central, north
+      central, and northeast South Dakota.
+    
+    * WHEN...From 6 PM CST /5 PM MST/ this evening to 3 PM CST /2 PM
+      MST/ Friday.
+    
+    * IMPACTS...The dangerously cold wind chills as low as 45 below zero
+      could cause frostbite on exposed skin in as little as 10 minutes.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    Dress in layers including a hat, face mask, and gloves if you must
+    go outside.
+    
+    &&
+    
+    $$
+
+* * *
+
+  
+
+### Winter Weather Advisory
+
+* * *
+    
+    
+    URGENT - WINTER WEATHER MESSAGE
+    National Weather Service Billings MT
+    1233 AM MST Thu Jan 22 2026
+    
+    MTZ029-030-034-036-042-057-058-063-138-141-169-170-172-173-228-235-
+    WYZ199-230745-
+    /O.NEW.KBYZ.WW.Y.0002.260123T0000Z-260124T0000Z/
+    Musselshell-Treasure-Northern Stillwater-Powder River-Golden
+    Valley-Northern Big Horn-Southern Rosebud-Judith Gap-Southern Big
+    Horn-Northern Sweet Grass-Bighorn Canyon-Northern Carbon-Melville
+    Foothills-Northeastern Yellowstone-Southern Wheatland-
+    Southwestern Yellowstone-Sheridan Foothills-
+    Including the locations of Judith Gap, Columbus, Sheridan, Park City,
+    Fromberg, Hardin, Reed Point, Clearmont, Musselshell, Ranchester,
+    Huntley, Lavina, Bighorn, Roundup, Powderville, Crow Agency, Custer,
+    Shawmut, Melstone, Pompeys Pillar, Broadview, Big Horn, Harlowton,
+    Rapelje, Twodot, Big Timber, Wyola, Busby, Fort Smith, Birney,
+    Melville, Sonnette, Lame Deer, Joliet, Dayton, Ashland, Laurel,
+    Broadus, Lodge Grass, Pryor, Ryegate, Hysham, Absarokee, Biddle, and
+    Billings
+    1233 AM MST Thu Jan 22 2026
+    
+    ...WINTER WEATHER ADVISORY IN EFFECT FROM 5 PM THIS AFTERNOON TO 5 PM
+    MST FRIDAY...
+    
+    * WHAT...Occasional light snow expected. Total snow accumulations of
+      an inch or two.
+    
+    * WHERE...Portions of central, south central, and southeast Montana
+      and north central Wyoming.
+    
+    * WHEN...From 5 PM this afternoon to 5 PM MST Friday.
+    
+    * IMPACTS...Plan on slick roads and areas of poor visibility.
+      Hazardous conditions will impact the Friday morning commute.
+    
+    * ADDITIONAL DETAILS...Wind chills will fall to 10 below to 20 below
+      zero tonight. Be sure that kids waiting for the school bus Friday
+      morning dress warmly.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    Slow down and use caution while traveling. For the latest road
+    conditions, call 5 1 1.
+    
+    &&
+    
+    $$
+    
+    Additional graphics for this hazard can be found at
+    http://www.weather.gov/billings
+    
+    Lester
+
+* * *
+
+  
+
+### Cold Weather Advisory
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Grand Forks ND
+    950 AM CST Thu Jan 22 2026
+    
+    MNZ003-024-027-028-NDZ038-039-230000-
+    /O.CON.KFGF.EC.W.0001.260122T1800Z-260123T1800Z/
+    /O.CON.KFGF.CW.Y.0004.000000T0000Z-260122T1800Z/
+    /O.CON.KFGF.EC.A.0001.260123T1800Z-260125T1800Z/
+    Clay-Hubbard-West Becker-East Becker-Barnes-Cass-
+    Including the cities of Fargo, Two Inlets, Moorhead, Park Rapids,
+    Valley City, and Detroit Lakes
+    950 AM CST Thu Jan 22 2026
+    
+    ...COLD WEATHER ADVISORY REMAINS IN EFFECT UNTIL NOON CST TODAY...
+    ...EXTREME COLD WARNING REMAINS IN EFFECT UNTIL NOON CST FRIDAY...
+    ...EXTREME COLD WATCH REMAINS IN EFFECT FROM FRIDAY AFTERNOON
+    THROUGH SUNDAY MORNING...
+    
+    * WHAT...For the Cold Weather Advisory, very cold wind chills as low
+      as 40 below. For the Extreme Cold Warning, dangerously cold wind
+      chills as low as 55 below expected. For the Extreme Cold Watch,
+      dangerously cold wind chills as low as 45 below possible.
+    
+    * WHERE...In Minnesota, Hubbard, East Becker, West Becker, and Clay
+      Counties. In North Dakota, Barnes and Cass Counties.
+    
+    * WHEN...For the Cold Weather Advisory, until noon CST today. For
+      the Extreme Cold Warning, until noon CST Friday. For the Extreme
+      Cold Watch, from Friday afternoon through Sunday morning.
+    
+    * IMPACTS...The dangerously cold wind chills as low as 55 below zero
+      could cause frostbite on exposed skin in as little as 5 minutes.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    Dress in layers including a hat, face mask, and gloves if you must
+    go outside.
+    
+    Use caution while traveling outside. Wear appropriate clothing, a
+    hat, and gloves.
+    
+    &&
+    
+    $$
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Glasgow MT
+    224 AM MST Thu Jan 22 2026
+    
+    MTZ016-017-022-023-025>027-059-060-222200-
+    /O.CON.KGGW.CW.Y.0002.260122T1000Z-260125T2000Z/
+    Central and Southeast Phillips-Central and Southern Valley-
+    Garfield-McCone-Dawson-Prairie-Wibaux-Northern Phillips-Southwest
+    Phillips-
+    Including Zortman, Glendive, Terry, Saco, Malta, Whitewater,
+    Jordan, Richey, Glasgow, Circle, Fort Peck, Frazer, Wibaux, and
+    Hinsdale
+    224 AM MST Thu Jan 22 2026
+    
+    ...COLD WEATHER ADVISORY REMAINS IN EFFECT UNTIL 1 PM MST SUNDAY...
+    
+    * WHAT...Very cold wind chills as low as 35 below expected.
+    
+    * WHERE...Phillips, Central and Southern Valley, Dawson, Garfield,
+      McCone, Prairie, and Wibaux Counties.
+    
+    * WHEN...Until 1 PM MST Sunday.
+    
+    * IMPACTS...The dangerously cold wind chills as low as 35 below zero
+      could cause frostbite on exposed skin in as little as 10 minutes.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    Keep pets indoors as much as possible.
+    
+    Make sure outdoor animals have a warm, dry shelter, food, and
+    unfrozen water.
+    
+    Make frequent checks on older family, friends, and neighbors. Ensure
+    portable heaters are used correctly. Do not use generators or grills
+    inside.
+    
+    &&
+    
+    $$
+    
+    Ebert
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Rapid City SD
+    117 AM MST Thu Jan 22 2026
+    
+    SDZ001-002-012>014-025>027-030>032-041>044-046-047-049-072>078-
+    WYZ060-222330-
+    /O.NEW.KUNR.CW.Y.0001.260123T0100Z-260123T1900Z/
+    Harding-Northern Perkins-Butte-Northern Meade Co Plains-Ziebach-
+    Northern Foothills-Rapid City-Southern Foothills-Custer Co Plains-
+    Pennington Co Plains-Haakon-Western Fall River-Northern Oglala
+    Lakota-Northern Jackson-Bennett-Mellette-Todd-Tripp-
+    Sturgis/Piedmont Foothills-Southern Meade Co Plains-Hermosa
+    Foothills-Eastern Fall River-Southern Oglala Lakota-Southern
+    Jackson-Southern Perkins-Northeastern Crook-
+    Including the cities of Redig, Howes, Ellsworth AFB, Spearfish,
+    Fairburn, Parmelee, Dupree, Wall, Colome, Belvidere, Scenic,
+    Colony, Cedar Butte, Bison, Smithwick, Milesville, Hermosa, Wood,
+    Lemmon, Hoover, Piedmont, Camp Crook, Cottonwood, Black Hawk,
+    Philip, Hamill, Beulah, Allen, Union Center, Buffalo Gap, Reva,
+    Rockyford, Rapid City, Quinn, Hot Springs, Mud Butte, Vale, White
+    River, Saint Francis, Winner, Norris, Sturgis, Interior, Tilford,
+    Wasta, Glad Valley, Edgemont, Sharps Corner, Tuthill, Elm
+    Springs, Belle Fourche, Oral, Pine Ridge, Box Elder, Martin,
+    Wanblee, Buffalo, Fruitdale, Oelrichs, Manderson, Long Valley,
+    Witten, Shadehill, South Eagle Butte, Summerset, Oglala,
+    Angostura Reservoir, New Underwood, Kadoka, Saint Onge, Enning,
+    Caputa, Ludlow, Wounded Knee, Batesland, White Owl, Zeona,
+    Ardmore, Ideal, Provo, Aladdin, Rosebud, Kyle, Belle Fourche
+    Reservoir, Midland, Whitewood, Red Owl, Newell, Ladner, Meadow,
+    Rumford, Sorum, Mission, Prairie City, Faith, Folsom, Cherry
+    Creek, Porcupine, Harrington, Opal, Potato Creek, and Usta
+    117 AM MST Thu Jan 22 2026 /217 AM CST Thu Jan 22 2026/
+    
+    ...COLD WEATHER ADVISORY IN EFFECT FROM 6 PM MST /7 PM CST/ THIS
+    EVENING TO NOON MST /1 PM CST/ FRIDAY...
+    
+    * WHAT...Very cold wind chills of 25 below to 35 below zero expected.
+    
+    * WHERE...Portions of northwestern, south central, and southwestern
+      South Dakota and northeast Wyoming.
+    
+    * WHEN...From 6 PM MST /7 PM CST/ this evening to noon MST /1 PM
+      CST/ Friday.
+    
+    * IMPACTS...The dangerously cold wind chills as low as 35 below zero
+      could cause frostbite on exposed skin in as little as 10 minutes.
+    
+    PRECAUTIONARY/PREPAREDNESS A
+[RREF11] [https://www.ventusky.com/leipzig](https://www.ventusky.com/leipzig)
+# [Ventusky](https://www.ventusky.com/)
+
+  * 
+
+* [Login](https://my.ventusky.com/login/?map)
+* [Premium](https://my.ventusky.com/premium/)
+* [myVentusky](https://my.ventusky.com/)
+* [About](https://my.ventusky.com/about/)
+
+  * Temperature
+  * Feels like temperature
+  * Precipitation
+  * Radar
+  * Satellite
+  * Wind speed
+  * Wind gusts
+  * Clouds
+  * Air pressure
+  * CAPE
+  * Snow cover
+  * Humidity
+  * Sea
+  * Air quality
+
+Wind Animation  
+ECMWF, GFS, ICON, GEM
+
+[ **New: ECMWF model in high resolution with hourly forecast steps**
+![ECMWF](https://static.ventusky.com/images/promo/ecmwf-hres2.png)
+](https://my.ventusky.com/guide/news/ventusky-now-offers-the-ecmwf-model-in-
+high-resolution-with-hourly-forecast-steps-60/)
+
+#  Leipzig
+
+[World](https://www.ventusky.com/forecast) /
+[Germany](https://www.ventusky.com/forecast/germany) /
+[Saxony](https://www.ventusky.com/forecast/germany/saxony)
+
+51°20'N / 12°22'E / Altitude 121 m / 17:40 2026/01/22, Europe/Berlin (UTC+1)
+
+  * Current Weather 
+  * Forecast 
+  * Sun and Moon 
+
+![clear sky](https://static.ventusky.com/images_v2/weather/1_night.svg) |  -3 °C   
+---|---  
+Wind speed  **4 km/h**  
+  
+
+
+Humidity  |  **73 %**  
+---|---  
+Air pressure  |  **1002 hPa**  
+Snow cover  |  **0 cm**  
+Visibility  |  **14 km**  
+Clouds  |  **0 %**  
+  
+Weather report from station Leipzig-holzhausen, Distance: 6 km (17:00
+2026/01/22)
+
+[ Open Radar Map](https://www.ventusky.com/radar-map)
+
+##  Weather for the next 24 hours
+
+18:00| 19:00| 20:00| 21:00| 22:00| 23:00| 00:00 tomorrow| 01:00 tomorrow|
+02:00 tomorrow| 03:00 tomorrow| 04:00 tomorrow| 05:00 tomorrow| 06:00
+tomorrow| 07:00 tomorrow| 08:00 tomorrow| 09:00 tomorrow| 10:00 tomorrow|
+11:00 tomorrow| 12:00 tomorrow| 13:00 tomorrow| 14:00 tomorrow| 15:00
+tomorrow| 16:00 tomorrow| 17:00 tomorrow| 18:00 tomorrow  
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+![clear sky](https://static.ventusky.com/images_v2/weather/1_night.svg) -3 °C
+0 mm  
+0 %  
+E 3 km/h |  ![clear sky](https://static.ventusky.com/images_v2/weather/1_night.svg) -4 °C 0 mm  
+0 %  
+E 3 km/h |  ![clear sky](https://static.ventusky.com/images_v2/weather/1_night.svg) -4 °C 0 mm  
+0 %  
+E 5 km/h |  ![clear sky](https://static.ventusky.com/images_v2/weather/1_night.svg) -5 °C 0 mm  
+0 %  
+E 5 km/h |  ![clear sky](https://static.ventusky.com/images_v2/weather/1_night.svg) -6 °C 0 mm  
+0 %  
+SE 6 km/h |  ![clear sky](https://static.ventusky.com/images_v2/weather/1_night.svg) -6 °C 0 mm  
+0 %  
+E 5 km/h |  ![clear sky](https://static.ventusky.com/images_v2/weather/1_night.svg) -7 °C 0 mm  
+0 %  
+SE 6 km/h |  ![clear sky](https://static.ventusky.com/images_v2/weather/1_night.svg) -7 °C 0 mm  
+0 %  
+SE 6 km/h |  ![clear sky](https://static.ventusky.com/images_v2/weather/1_night.svg) -7 °C 0 mm  
+0 %  
+SE 4 km/h |  ![clear sky](https://static.ventusky.com/images_v2/weather/1_night.svg) -8 °C 0 mm  
+0 %  
+E 5 km/h |  ![clear sky](https://static.ventusky.com/images_v2/weather/1_night.svg) -8 °C 0 mm  
+0 %  
+E 5 km/h |  ![high clouds](https://static.ventusky.com/images_v2/weather/24_night.svg) -8 °C 0 mm  
+0 %  
+E 5 km/h |  ![high clouds](https://static.ventusky.com/images_v2/weather/24_night.svg) -8 °C 0 mm  
+0 %  
+E 5 km/h |  ![high clouds](https://static.ventusky.com/images_v2/weather/24_night.svg) -9 °C 0 mm  
+0 %  
+E 5 km/h |  ![high clouds](https://static.ventusky.com/images_v2/weather/24.svg) -9 °C 0 mm  
+0 %  
+E 5 km/h |  ![clear sky with few clouds](https://static.ventusky.com/images_v2/weather/2.svg) -9 °C 0 mm  
+0 %  
+E 5 km/h |  ![clear sky](https://static.ventusky.com/images_v2/weather/1.svg) -7 °C 0 mm  
+0 %  
+E 7 km/h |  ![clear sky](https://static.ventusky.com/images_v2/weather/1.svg) -6 °C 0 mm  
+0 %  
+E 7 km/h |  ![clear sky](https://static.ventusky.com/images_v2/weather/1.svg) -4 °C 0 mm  
+0 %  
+E 9 km/h |  ![clear sky with few clouds](https://static.ventusky.com/images_v2/weather/2.svg) -3 °C 0 mm  
+0 %  
+E 9 km/h |  ![high clouds](https://static.ventusky.com/images_v2/weather/24.svg) -2 °C 0 mm  
+0 %  
+E 11 km/h |  ![overcast](https://static.ventusky.com/images_v2/weather/5.svg) -2 °C 0 mm  
+0 %  
+E 9 km/h |  ![overcast](https://static.ventusky.com/images_v2/weather/5.svg) -2 °C 0 mm  
+0 %  
+E 7 km/h |  ![overcast](https://static.ventusky.com/images_v2/weather/5.svg) -3 °C 0 mm  
+0 %  
+E 7 km/h |  ![overcast](https://static.ventusky.com/images_v2/weather/5.svg) -4 °C 0 mm  
+0 %  
+E 7 km/h  
+  
+##  Forecast
+
+2026/01/232026/01/242026/01/252026/01/262026/01/272026/01/282026/01/292026/01/30
+
+  * Fr   
+![partly cloudy](https://static.ventusky.com/images_v2/weather/3.svg)  
+-2 °C 
+  * Sa   
+![overcast](https://static.ventusky.com/images_v2/weather/5.svg)  
+-1 °C 
+  * Su   
+![mostly cloudy](https://static.ventusky.com/images_v2/weather/4.svg)  
+1 °C
+
+  * Mo   
+![overcast with snow](https://static.ventusky.com/images_v2/weather/17.svg)  
+-1 °C 
+  * Tu   
+![mostly cloudy](https://static.ventusky.com/images_v2/weather/4.svg)  
+2 °C
+
+  * We   
+![overcast with rain](https://static.ventusky.com/images_v2/weather/11.svg)  
+2 °C
+
+  * Th   
+![overcast](https://static.ventusky.com/images_v2/weather/5.svg)  
+4 °C
+
+  * Fr   
+![overcast with light
+rain](https://static.ventusky.com/images_v2/weather/25.svg)  
+6 °C
+
+01:00| 04:00| 07:00| 10:00| 13:00| 16:00| 19:00| 22:00  
+---|---|---|---|---|---|---|---  
+![clear sky](https://static.ventusky.com/images_v2/weather/1_night.svg) -7 °C
+0 mm  
+0 %  
+SE 6 km/h |  ![clear sky](https://static.ventusky.com/images_v2/weather/1_night.svg) -8 °C 0 mm  
+0 %  
+E 5 km/h |  ![high clouds](https://static.ventusky.com/images_v2/weather/24_night.svg) -9 °C 0 mm  
+0 %  
+E 5 km/h |  ![clear sky](https://static.ventusky.com/images_v2/weather/1.svg) -7 °C 0 mm  
+0 %  
+E 7 km/h |  ![clear sky with few clouds](https://static.ventusky.com/images_v2/weather/2.svg) -3 °C 0 mm  
+0 %  
+E 9 km/h |  ![overcast](https://static.ventusky.com/images_v2/weather/5.svg) -2 °C 0 mm  
+0 %  
+E 7 km/h |  ![overcast](https://static.ventusky.com/images_v2/weather/5.svg) -4 °C 0 mm  
+0 %  
+E 9 km/h |  ![partly cloudy](https://static.ventusky.com/images_v2/weather/3_night.svg) -5 °C 0 mm  
+0 %  
+NE 8 km/h  
+  
+## Meteogram
+
+  * Temperature   
+(°C)
+
+  * Precipitation   
+(mm)
+
+  * Gust   
+(km/h)
+
+  * New snow   
+(cm)
+
+-7-9-6-4-3-110063244-1-2-11-1224679676
+
+15  
+---  
+10  
+5  
+0  
+-5  
+-10  
+-15  
+  
+Th  
+22  
+![clear sky](https://static.ventusky.com/images_v2/weather/1.svg)| Fr  
+23  
+![partly cloudy](https://static.ventusky.com/images_v2/weather/3.svg)| Sa  
+24  
+![overcast](https://static.ventusky.com/images_v2/weather/5.svg)| Su  
+25  
+![mostly cloudy](https://static.ventusky.com/images_v2/weather/4.svg)| Mo  
+26  
+![overcast with snow](https://static.ventusky.com/images_v2/weather/17.svg)|
+Tu  
+27  
+![partly cloudy](https://static.ventusky.com/images_v2/weather/3.svg)| We  
+28  
+![overcast with rain](https://static.ventusky.com/images_v2/weather/11.svg)|
+Th  
+29  
+![overcast](https://static.ventusky.com/images_v2/weather/5.svg)| Fr  
+30  
+![overcast with light
+rain](https://static.ventusky.com/images_v2/weather/25.svg)| Sa  
+31  
+![overcast](https://static.ventusky.com/images_v2/weather/5.svg)| Su  
+01  
+![overcast with rain](https://static.ventusky.com/images_v2/weather/11.svg)|
+Mo  
+02  
+![overcast with rain](https://static.ventusky.com/images_v2/weather/11.svg)|
+Tu  
+03  
+![overcast with rain](https://static.ventusky.com/images_v2/weather/11.svg)|
+We  
+04  
+![overcast with rain](https://static.ventusky.com/images_v2/weather/11.svg)  
+---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+  
+##  Webcams
+
+[ ](https://www.ventusky.com/webcam-359218405 "View")
+
+● [ **Leipzig** ](https://www.ventusky.com/webcam-359218405)  
+1 km  l.de
+
+[ ](https://www.ventusky.com/webcam-934223670 "View")
+
+● [ **Leipzig Gohlis** ](https://www.ventusky.com/webcam-934223670)  
+3 km  leipzig-wetter.de
+
+##  Air quality (AQI)
+
+  
+
+Air quality index (marked as AQI) is developed by Environmental Protection
+Agency. Values over 300 represents hazardous air quality, between 200-300 very
+unhealthy, 150-200 unhealthy, 100-150 unhealthy for sensitive groups and below
+100 or rather below 50 the air quality is good.
+
+###  Weather report from station
+
+Provided by [aqicn.org](http://www.aqicn.org/)
+
+  
+**Good** **Moderate** **Unhealthy for Sensitive Groups** **Unhealthy** **Very
+Unhealthy** **Hazardous**  
+---  
+  
+
+
+Weather report from station;Distance
+
+##  Sun and Moon
+
+2026/01/222026/01/232026/01/242026/01/252026/01/262026/01/27
+
+Heading:  |  Time:   
+---|---  
+Phase:  |  Altitude:   
+  
+  
+
+Heading:  |  Time:   
+---|---  
+Illumination:  |  Altitude:   
+  
+  
+Date  |  rise  |  set  |  rise  |  Illumination   
+---|---|---|---|---  
+  
+  
+Phase  |  Time  |  Length   
+---|---|---
+
+
+[RREF12] [https://www.weather.gov/wwamap/wwatxtget.php?cwa=byz&wwa=all](https://www.weather.gov/wwamap/wwatxtget.php?cwa=byz&wwa=all)
+[weather.gov](https://www.weather.gov "Go to the NWS Homepage")  
+
+National Weather Service  
+  
+Watches, Warnings & Advisories
+
+[![Go to the NOAA Homepage](/images/wtf/noaalink.gif)](http://www.noaa.gov/)
+
+[![NWS Homepage](/images/wtf/noaalink.gif)](https://www.weather.gov)
+
+Local weather forecast by "City, St" or zip code
+
+  
+
+### Extreme Cold Warning
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Bismarck ND
+    626 AM CST Thu Jan 22 2026
+    
+    NDZ001>005-009>013-021>023-025-035>037-046>048-050-051-222030-
+    /O.CON.KBIS.EC.W.0001.000000T0000Z-260125T1800Z/
+    Divide-Burke-Renville-Bottineau-Rolette-Williams-Mountrail-Ward-
+    McHenry-Pierce-McLean-Sheridan-Wells-Foster-Burleigh-Kidder-Stutsman-
+    Emmons-Logan-La Moure-McIntosh-Dickey-
+    Including the cities of New Town, Towner, Bottineau, Harvey, Steele,
+    Powers Lake, Velva, Drake, Ashley, Lignite, Wishek, Tappen,
+    Fessenden, Rolette, Rugby, Williston, Mcclusky, Edgeley, Portal,
+    Garrison, Mohall, Columbus, Jamestown, Strasburg, Ellendale,
+    Bowbells, Gackle, Turtle Lake, Stanley, Linton, Sherwood, Minot,
+    Wilton, Goodrich, Oakes, Carrington, Underwood, Shell Valley,
+    Parshall, Dunseith, Kulm, Lamoure, Bismarck, Rolla,
+    Crosby, Napoleon, Glenburn, Washburn, and St. John
+    626 AM CST Thu Jan 22 2026
+    
+    ...EXTREME COLD WARNING REMAINS IN EFFECT UNTIL NOON CST SUNDAY...
+    
+    * WHAT...Life-threatening wind chills as low as 55 below zero
+      expected.
+    
+    * WHERE...Northern and central North Dakota, including the James
+      River Valley.
+    
+    * WHEN...Until noon CST Sunday.
+    
+    * IMPACTS...The life-threatening wind chills will cause frostbite on
+      exposed skin in as little as 5 minutes. Hypothermia could develop
+      shortly thereafter.
+    
+    * ADDITIONAL DETAILS...The coldest period during this long-duration
+      event is expected tonight through Friday.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    This is a potentially dangerous situation to be outdoors. If you must
+    be outside, be sure to cover all exposed skin.
+    
+    &&
+    
+    $$
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Bismarck ND
+    626 AM CST Thu Jan 22 2026
+    
+    NDZ017>020-031>034-040>045-222030-
+    /O.CON.KBIS.EC.W.0001.260123T0000Z-260123T1800Z/
+    McKenzie-Dunn-Mercer-Oliver-Golden Valley-Billings-Stark-Morton-
+    Slope-Hettinger-Grant-Bowman-Adams-Sioux-
+    Including the cities of New England, Carson, Elgin, Bowman,
+    Hettinger, Medora, Watford City, Halliday, Fort Yates, Marmarth,
+    Beach, New Leipzig, Dickinson, Solen, Hazen, Selfridge, Beulah, Mott,
+    Center, Mandan, and Killdeer
+    626 AM CST Thu Jan 22 2026 /526 AM MST Thu Jan 22 2026/
+    
+    ...EXTREME COLD WARNING REMAINS IN EFFECT FROM 6 PM CST /5 PM MST/
+    THIS EVENING TO NOON CST /11 AM MST/ FRIDAY...
+    
+    * WHAT...Dangerously cold wind chills as low as 45 below zero
+      expected.
+    
+    * WHERE...Portions of western and south central North Dakota.
+    
+    * WHEN...From 6 PM CST /5 PM MST/ this evening to noon CST /11 AM
+      MST/ Friday.
+    
+    * IMPACTS...The dangerously cold wind chills will cause frostbite on
+      exposed skin in as little as 10 minutes.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    This is a potentially dangerous situation to be outdoors. If you must
+    be outside, be sure to cover all exposed skin.
+    
+    &&
+    
+    $$
+    
+    Hollan
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Glasgow MT
+    224 AM MST Thu Jan 22 2026
+    
+    MTZ018>020-024-061-062-222200-
+    /O.CON.KGGW.EC.W.0001.260122T1000Z-260125T2000Z/
+    Daniels-Sheridan-Western Roosevelt-Richland-Northern Valley-
+    Eastern Roosevelt-
+    Including Culbertson, Wolf Point, Medicine Lake, Scobey, Opheim,
+    Plentywood, Sidney, Fairview, and Poplar
+    224 AM MST Thu Jan 22 2026
+    
+    ...EXTREME COLD WARNING REMAINS IN EFFECT UNTIL 1 PM MST SUNDAY...
+    
+    * WHAT...Dangerously cold wind chills as low as 45 below expected.
+    
+    * WHERE...Daniels, Northern Valley, Richland, Sheridan, and
+      Roosevelt Counties.
+    
+    * WHEN...Until 1 PM MST Sunday.
+    
+    * IMPACTS...The dangerously cold wind chills as low as 40 below zero
+      could cause frostbite on exposed skin in as little as 10 minutes.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    Dress in layers including a hat, face mask, and gloves if you must
+    go outside.
+    
+    Keep pets indoors as much as possible.
+    
+    Make sure outdoor animals have a warm, dry shelter, food, and
+    unfrozen water.
+    
+    Make frequent checks on older family, friends, and neighbors. Ensure
+    portable heaters are used correctly. Do not use generators or grills
+    inside.
+    
+    
+    &&
+    
+    $$
+
+* * *
+
+  
+
+### Winter Weather Advisory
+
+* * *
+    
+    
+    URGENT - WINTER WEATHER MESSAGE
+    National Weather Service Billings MT
+    1233 AM MST Thu Jan 22 2026
+    
+    MTZ029-030-034-036-042-057-058-063-138-141-169-170-172-173-228-235-
+    WYZ199-230745-
+    /O.NEW.KBYZ.WW.Y.0002.260123T0000Z-260124T0000Z/
+    Musselshell-Treasure-Northern Stillwater-Powder River-Golden
+    Valley-Northern Big Horn-Southern Rosebud-Judith Gap-Southern Big
+    Horn-Northern Sweet Grass-Bighorn Canyon-Northern Carbon-Melville
+    Foothills-Northeastern Yellowstone-Southern Wheatland-
+    Southwestern Yellowstone-Sheridan Foothills-
+    Including the locations of Judith Gap, Columbus, Sheridan, Park City,
+    Fromberg, Hardin, Reed Point, Clearmont, Musselshell, Ranchester,
+    Huntley, Lavina, Bighorn, Roundup, Powderville, Crow Agency, Custer,
+    Shawmut, Melstone, Pompeys Pillar, Broadview, Big Horn, Harlowton,
+    Rapelje, Twodot, Big Timber, Wyola, Busby, Fort Smith, Birney,
+    Melville, Sonnette, Lame Deer, Joliet, Dayton, Ashland, Laurel,
+    Broadus, Lodge Grass, Pryor, Ryegate, Hysham, Absarokee, Biddle, and
+    Billings
+    1233 AM MST Thu Jan 22 2026
+    
+    ...WINTER WEATHER ADVISORY IN EFFECT FROM 5 PM THIS AFTERNOON TO 5 PM
+    MST FRIDAY...
+    
+    * WHAT...Occasional light snow expected. Total snow accumulations of
+      an inch or two.
+    
+    * WHERE...Portions of central, south central, and southeast Montana
+      and north central Wyoming.
+    
+    * WHEN...From 5 PM this afternoon to 5 PM MST Friday.
+    
+    * IMPACTS...Plan on slick roads and areas of poor visibility.
+      Hazardous conditions will impact the Friday morning commute.
+    
+    * ADDITIONAL DETAILS...Wind chills will fall to 10 below to 20 below
+      zero tonight. Be sure that kids waiting for the school bus Friday
+      morning dress warmly.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    Slow down and use caution while traveling. For the latest road
+    conditions, call 5 1 1.
+    
+    &&
+    
+    $$
+    
+    Additional graphics for this hazard can be found at
+    http://www.weather.gov/billings
+    
+    Lester
+
+* * *
+
+  
+
+### Cold Weather Advisory
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Glasgow MT
+    224 AM MST Thu Jan 22 2026
+    
+    MTZ016-017-022-023-025>027-059-060-222200-
+    /O.CON.KGGW.CW.Y.0002.260122T1000Z-260125T2000Z/
+    Central and Southeast Phillips-Central and Southern Valley-
+    Garfield-McCone-Dawson-Prairie-Wibaux-Northern Phillips-Southwest
+    Phillips-
+    Including Zortman, Glendive, Terry, Saco, Malta, Whitewater,
+    Jordan, Richey, Glasgow, Circle, Fort Peck, Frazer, Wibaux, and
+    Hinsdale
+    224 AM MST Thu Jan 22 2026
+    
+    ...COLD WEATHER ADVISORY REMAINS IN EFFECT UNTIL 1 PM MST SUNDAY...
+    
+    * WHAT...Very cold wind chills as low as 35 below expected.
+    
+    * WHERE...Phillips, Central and Southern Valley, Dawson, Garfield,
+      McCone, Prairie, and Wibaux Counties.
+    
+    * WHEN...Until 1 PM MST Sunday.
+    
+    * IMPACTS...The dangerously cold wind chills as low as 35 below zero
+      could cause frostbite on exposed skin in as little as 10 minutes.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    Keep pets indoors as much as possible.
+    
+    Make sure outdoor animals have a warm, dry shelter, food, and
+    unfrozen water.
+    
+    Make frequent checks on older family, friends, and neighbors. Ensure
+    portable heaters are used correctly. Do not use generators or grills
+    inside.
+    
+    &&
+    
+    $$
+    
+    Ebert
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Rapid City SD
+    117 AM MST Thu Jan 22 2026
+    
+    SDZ001-002-012>014-025>027-030>032-041>044-046-047-049-072>078-
+    WYZ060-222330-
+    /O.NEW.KUNR.CW.Y.0001.260123T0100Z-260123T1900Z/
+    Harding-Northern Perkins-Butte-Northern Meade Co Plains-Ziebach-
+    Northern Foothills-Rapid City-Southern Foothills-Custer Co Plains-
+    Pennington Co Plains-Haakon-Western Fall River-Northern Oglala
+    Lakota-Northern Jackson-Bennett-Mellette-Todd-Tripp-
+    Sturgis/Piedmont Foothills-Southern Meade Co Plains-Hermosa
+    Foothills-Eastern Fall River-Southern Oglala Lakota-Southern
+    Jackson-Southern Perkins-Northeastern Crook-
+    Including the cities of Redig, Howes, Ellsworth AFB, Spearfish,
+    Fairburn, Parmelee, Dupree, Wall, Colome, Belvidere, Scenic,
+    Colony, Cedar Butte, Bison, Smithwick, Milesville, Hermosa, Wood,
+    Lemmon, Hoover, Piedmont, Camp Crook, Cottonwood, Black Hawk,
+    Philip, Hamill, Beulah, Allen, Union Center, Buffalo Gap, Reva,
+    Rockyford, Rapid City, Quinn, Hot Springs, Mud Butte, Vale, White
+    River, Saint Francis, Winner, Norris, Sturgis, Interior, Tilford,
+    Wasta, Glad Valley, Edgemont, Sharps Corner, Tuthill, Elm
+    Springs, Belle Fourche, Oral, Pine Ridge, Box Elder, Martin,
+    Wanblee, Buffalo, Fruitdale, Oelrichs, Manderson, Long Valley,
+    Witten, Shadehill, South Eagle Butte, Summerset, Oglala,
+    Angostura Reservoir, New Underwood, Kadoka, Saint Onge, Enning,
+    Caputa, Ludlow, Wounded Knee, Batesland, White Owl, Zeona,
+    Ardmore, Ideal, Provo, Aladdin, Rosebud, Kyle, Belle Fourche
+    Reservoir, Midland, Whitewood, Red Owl, Newell, Ladner, Meadow,
+    Rumford, Sorum, Mission, Prairie City, Faith, Folsom, Cherry
+    Creek, Porcupine, Harrington, Opal, Potato Creek, and Usta
+    117 AM MST Thu Jan 22 2026 /217 AM CST Thu Jan 22 2026/
+    
+    ...COLD WEATHER ADVISORY IN EFFECT FROM 6 PM MST /7 PM CST/ THIS
+    EVENING TO NOON MST /1 PM CST/ FRIDAY...
+    
+    * WHAT...Very cold wind chills of 25 below to 35 below zero expected.
+    
+    * WHERE...Portions of northwestern, south central, and southwestern
+      South Dakota and northeast Wyoming.
+    
+    * WHEN...From 6 PM MST /7 PM CST/ this evening to noon MST /1 PM
+      CST/ Friday.
+    
+    * IMPACTS...The dangerously cold wind chills as low as 35 below zero
+      could cause frostbite on exposed skin in as little as 10 minutes.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    Use caution while traveling outside. Wear appropriate clothing, a
+    hat, and gloves.
+    
+    &&
+    
+    $$
+    
+    Calderon
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Billings MT
+    1236 AM MST Thu Jan 22 2026
+    
+    MTZ031>033-037-230745-
+    /O.CON.KBYZ.CW.Y.0001.260122T2200Z-260123T1700Z/
+    Northern Rosebud-Custer-Fallon-Carter-
+    Including the locations of Belltower, Plevna, Ismay, Volborg, Baker,
+    Hammond, Angela, Forsyth, Colstrip, Ingomar, Ekalaka, Webster,
+    Alzada, and Miles City
+    1236 AM MST Thu Jan 22 2026
+    
+    ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM 3 PM THIS AFTERNOON
+    TO 10 AM MST FRIDAY...
+    
+    * WHAT...Cold temperatures as low as 10 to 25 below and very cold
+      wind chills of 25 to 35 below zero expected.
+    
+    * WHERE...Carter, Custer, Fallon, and Northern Rosebud.
+    
+    * WHEN...From 3 PM this afternoon to 10 AM MST Friday.
+    
+    * IMPACTS...The dangerously cold wind chills could cause frostbite on
+      exposed skin in as little as 10 minutes.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    Use caution while traveling outside. Wear appropriate clothing, a
+    hat, and gloves.
+    
+    Make sure outdoor animals have a warm, dry shelter, food, and
+    unfrozen water. The cold temperatures will pose a danger to young
+    livestock.
+    
+    &&
+    
+    $$
+    
+    Additional graphics for this hazard can be found at
+    http://www.weather.gov/billings
+    
+    Lester
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Great Falls MT
+    1135 PM MST Wed Jan 21 2026
+    
+    MTZ305-306-311-230000-
+    /O.UPG.KTFX.EC.A.0001.260123T0100Z-260123T1700Z/
+    /O.NEW.KTFX.CW.Y.0001.260123T0000Z-260123T1700Z/
+    Hill County-Northern Blaine County-Bears Paw Mountains and
+    Southern Blaine-
+    Including the following locations: Harlem, Havre, Fort Belknap,
+    Chinook, Rocky Boy, Zurich, and Hogeland
+    1135 PM MST Wed Jan 21 2026
+    
+    ...COLD WEATHER ADVISORY IN EFFECT FROM 5 PM THURSDAY TO 10 AM MST
+    FRIDAY...
+    
+    * WHAT...Very cold wind chills as low as 35 below expected.
+    
+    * WHERE...Bears Paw Mountains and Southern Blaine, Hill County, and
+      Northern Blaine County.
+    
+    * WHEN...From 5 PM Thursday to 10 AM MST Friday.
+    
+    * IMPACTS...The dangerously cold wind chills as low as 35 below zero
+      could cause frostbite on exposed skin in as little as 10 minutes.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    Use caution while traveling outside. Wear appropriate clothing, a
+    hat, and gloves.
+    
+    &&
+    
+    $$
+    
+    AM
+
+* * *
+
+  
+
+### Freezing Fog Advisory
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Pendleton OR
+    1228 PM PST Wed Jan 21 2026
+    
+    ORZ050-221800-
+    /O.NEW.KPDT.ZF.Y.0011.260121T2100Z-260122T1800Z/
+    Wallowa County-
+    Including the cities of Enterprise, Wallowa, and Joseph
+    1228 PM PST Wed Jan 21 2026
+    
+    ...FREEZING FOG ADVISORY IN EFFECT UNTIL 10 AM PST THURSDAY...
+    
+    * WHAT...Visibility less than a quarter mile in freezing fog.
+    
+    * WHERE...Wallowa County.
+    
+    * WHEN...Until 10 AM PST Thursday.
+    
+    * IMPACTS...Low visibility could make driving conditions hazardous.
+      Frost and freeze conditions could kill crops, other sensitive
+      vegetation and possibly damage unprotected outdoor plumbing.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    If driving, slow down, use your headlights, and leave plenty of
+    distance ahead of you.
+    
+    &&
+    
+    $$
+    
+    PDT
+
+* * *
+
+  
+
+### Local Area Emergency
+
+* * *
+    
+    
+    IDC001-015-045-085-221801-
+    
+    BULLETIN - EAS ACTIVATION REQUESTED
+    Local Area Emergency
+    ID Idaho Office of Emergency Management 1
+    Relayed by National Weather Service Boise ID
+    901 AM MST Thu Jan 22 2026
+    
+    ...Endangered Missing Person Alert...
+    
+    The following message is transmitted at the request of Idaho
+    Office of Emergency Management 1.
+    
+    This is an activation of the Endangered Missing Person Alert
+    system.  The Gem County Sheriffs Office is looking for a missing
+    person and is believed to be in danger. He is a 77 year old male
+    with gray hair and was last seen wearing a green thermal shirt
+    jeans black coat tan and white Crocs. He may be suffering from
+    dementia and may be confused. Authorities say that the missing
+    person may be traveling in a 2012 tan Ford F one fifty with Idaho
+    plate D U 9 0 7. If you have any information on the where abouts
+    of this missing person please contact 9  1  1 immediately or call
+    Gem County Sheriff 2 0 8 3 6 5 3 5 2 1
+    
+    $$
+    
+    AS-ID-5c9f5e29-f7de-450b-b331-689a40c340cd/AlertSense
+
+* * *
+
+  
+
+### Air Stagnation Advisory
+
+* * *
+    
+    
+    URGENT - WEATHER MESSAGE
+    National Weather Service Boise ID
+    623 AM MST Thu Jan 22 2026
+    
+    IDZ011>014-016-028-033-ORZ061>064-222200-
+    /O.CON.KBOI.AS.Y.0001.000000T0000Z-260123T1200Z/
+    West Central Mountains-Lower Treasure Valley-Boise Mountains-
+    Upper Treasure Valley-Western Magic Valley-Camas Prairie-Upper
+    Weiser River-Harney County-Baker County-Malheur County-Oregon
+    Lower Treasure Valley-
+    Including the cities of Cambridge, Selby, Indian Valley, Hill
+    City, Ola, Glendale, Nampa, Caldwell, Bear, Buchanan, Cascade,
+    Baker, Mesa, Ontario, Corral, Dunnean, Nyssa, Goodrich, Malheur
+    City, McCall, Warm Lake, Anderson Dam, Prairie, Soldier,
+    Fairfield, New Princeton, Crane, Council, Big Creek, Diamond,
+    Fruitvale, Blaine, Burns, Twin Falls, Cuprum, Venator, Pine, and
+    Boise
+    623 AM MST Thu Jan 22 2026 /523 AM PST Thu Jan 22 2026/
+    
+    ...AIR STAGNATION ADVISORY REMAINS IN EFFECT UNTIL 5 AM MST /4 AM
+    PST/ FRIDAY...
+    
+    * WHAT...An extended period of stagnant air, with light winds and
+      little vertical mixing. This is due to an inversion near the
+      surface that will continue to trap pollutants.
+    
+    * WHERE...Portions of south central and southwest Idaho and
+      northeast and southeast Oregon.
+    
+    * WHEN...Until 5 AM MST /4 AM PST/ Friday.
+    
+    * IMPACTS...Poor air quality may cause issues for people with
+      respiratory problems.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    Persons with respiratory illness should follow their physicians
+    advice for dealing with high levels of air pollution during periods
+    of stagnant air.
+    
+    &&
+    
+    $$
+    
+    KA
+
+* * *
+
+  
+
+### Hazardous Weather Outlook
+
+* * *
+    
+    
+    Hazardous Weather Outlook
+    National Weather Service Bismarck ND
+    859 AM CST Thu Jan 22 2026
+    
+    NDZ001>005-009>013-021>023-025-035>037-046>048-050-051-231500-
+    Divide-Burke-Renville-Bottineau-Rolette-Williams-Mountrail-Ward-
+    McHenry-Pierce-McLean-Sheridan-Wells-Foster-Burleigh-Kidder-
+    Stutsman-Emmons-Logan-La Moure-McIntosh-Dickey-
+    859 AM CST Thu Jan 22 2026
+    
+    This Hazardous Weather Outlook is for portions of north central
+    North Dakota, northwest North Dakota, south central North Dakota,
+    and southeast North Dakota.
+    
+    .DAY ONE...Today and Tonight
+    
+    An Extreme Cold Warning is in effect. See weather.gov/bis for
+    details.
+    
+    .DAYS TWO THROUGH SEVEN...Friday through Wednesday
+    
+    An Extreme Cold Warning is in effect through Sunday morning. See
+    weather.gov/bis for details.
+    
+    .SPOTTER INFORMATION STATEMENT...
+    
+    Spotters are asked to provide reports to the NWS using standard
+    procedures, including through our social media accounts.
+    
+    $$
+
+* * *
+    
+    
+    Hazardous Weather Outlook
+    National Weather Service Bismarck ND
+    859 AM CST Thu Jan 22 2026
+    
+    NDZ017>020-031>034-040>045-231500-
+    McKenzie-Dunn-Mercer-Oliver-Golden Valley-Billings-Stark-Morton-
+    Slope-Hettinger-Grant-Bowman-Adams-Sioux-
+    859 AM CST Thu Jan 22 2026 /759 AM MST Thu Jan 22 2026/
+    
+    This Hazardous Weather Outlook is for portions of northwest North
+    Dakota, south central North Dakota, and southwest North Dakota.
+    
+    .DAY ONE...Today and Tonight
+    
+    An Extreme Cold Warning is in effect this evening through Friday
+    morning. See weather.gov/bis for details.
+    
+    .DAYS TWO THROUGH SEVEN...Friday through Wednesday
+    
+    An Extreme Cold Warning is in effect Friday morning. See
+    weather.gov/bis for details.
+    
+    Dangerously cold temperatures will continue through the weekend.
+    
+    .SPOTTER INFORMATION STATEMENT...
+    
+    Spotters are asked to provide reports to the NWS using standard
+    procedures, including through our social media accounts.
+    
+    $$
+    
+    MEJ
+
+* * *
+    
+    
+    Hazardous Weather Outlook
+    National Weather Service Riverton WY
+    252 AM MST Thu Jan 22 2026
+    
+    WYZ001>020-022>030-231400-
+    Yellowstone National Park-Absaroka Mountains-Cody Foothills-
+    North Bighorn Basin-Southwest Bighorn Basin-Southeast Bighorn Basin-
+    Owl Creek and Bridger Mountains-Bighorn Mountains West-
+    Bighorn Mountains Southeast-Nort
+[RREF10] [https://wttr.in/Leipzig](https://wttr.in/Leipzig)
+
+    Weather report: Leipzig
+    
+          \   /     Clear
+           .-.      -2(-5) °C      
+        ― (   ) ―   ← 9 km/h       
+           `-’      10 km          
+          /   \     0.0 mm         
+                                                           ┌─────────────┐                                                       
+    ┌──────────────────────────────┬───────────────────────┤  Thu 22 Jan ├───────────────────────┬──────────────────────────────┐
+    │            Morning           │             Noon      └──────┬──────┘     Evening           │             Night            │
+    ├──────────────────────────────┼──────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+    │     \   /     Sunny          │     \   /     Sunny          │     \   /     Clear          │     \   /     Clear          │
+    │      .-.      -4(-6) °C      │      .-.      -1(-4) °C      │      .-.      -3(-6) °C      │      .-.      -4(-6) °C      │
+    │   ― (   ) ―   ← 6-11 km/h    │   ― (   ) ―   ← 8-10 km/h    │   ― (   ) ―   ← 8-17 km/h    │   ― (   ) ―   ↖ 7-13 km/h    │
+    │      `-’      10 km          │      `-’      10 km          │      `-’      10 km          │      `-’      10 km          │
+    │     /   \     0.0 mm | 0%    │     /   \     0.0 mm | 0%    │     /   \     0.0 mm | 0%    │     /   \     0.0 mm | 0%    │
+    └──────────────────────────────┴──────────────────────────────┴──────────────────────────────┴──────────────────────────────┘
+                                                           ┌─────────────┐                                                       
+    ┌──────────────────────────────┬───────────────────────┤  Fri 23 Jan ├───────────────────────┬──────────────────────────────┐
+    │            Morning           │             Noon      └──────┬──────┘     Evening           │             Night            │
+    ├──────────────────────────────┼──────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+    │     \   /     Sunny          │     \   /     Sunny          │     \   /     Clear          │    \  /       Partly Cloudy  │
+    │      .-.      -4(-8) °C      │      .-.      0(-4) °C       │      .-.      -3(-7) °C      │  _ /"".-.     -4(-8) °C      │
+    │   ― (   ) ―   ← 8-15 km/h    │   ― (   ) ―   ← 11-13 km/h   │   ― (   ) ―   ↙ 12-25 km/h   │    \_(   ).   ← 12-22 km/h   │
+    │      `-’      10 km          │      `-’      10 km          │      `-’      10 km          │    /(___(__)  10 km          │
+    │     /   \     0.0 mm | 0%    │     /   \     0.0 mm | 0%    │     /   \     0.0 mm | 0%    │               0.0 mm | 0%    │
+    └──────────────────────────────┴──────────────────────────────┴──────────────────────────────┴──────────────────────────────┘
+                                                           ┌─────────────┐                                                       
+    ┌──────────────────────────────┬───────────────────────┤  Sat 24 Jan ├───────────────────────┬──────────────────────────────┐
+    │            Morning           │             Noon      └──────┬──────┘     Evening           │             Night            │
+    ├──────────────────────────────┼──────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+    │     \   /     Sunny          │    \  /       Partly Cloudy  │    \  /       Partly Cloudy  │    \  /       Partly Cloudy  │
+    │      .-.      -4(-6) °C      │  _ /"".-.     0(-3) °C       │  _ /"".-.     -2(-6) °C      │  _ /"".-.     -2(-5) °C      │
+    │   ― (   ) ―   ← 4-7 km/h     │    \_(   ).   ← 8-10 km/h    │    \_(   ).   ↙ 10-20 km/h   │    \_(   ).   ↙ 8-14 km/h    │
+    │      `-’      10 km          │    /(___(__)  10 km          │    /(___(__)  10 km          │    /(___(__)  10 km          │
+    │     /   \     0.0 mm | 0%    │               0.0 mm | 0%    │               0.0 mm | 0%    │               0.0 mm | 0%    │
+    └──────────────────────────────┴──────────────────────────────┴──────────────────────────────┴──────────────────────────────┘
+    Location: Leipzig, Sachsen, 04103, Deutschland [51.3391827,12.3810549]
+    
+
+[Follow @igor_chubin](https://twitter.com/igor_chubin?ref_src=twsrc%5Etfw)
+[wttr.in](https://github.com/chubin/wttr.in)
+[pyphoon](https://github.com/chubin/pyphoon)
+[wego](https://github.com/schachmat/wego)
+
+
+[RREF10] [https://wttr.in/Leipzig?format=3](https://wttr.in/Leipzig?format=3)
+Leipzig: ☀️ -3°C
+
+
+[RREF10] [https://weather.com/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4](https://weather.com/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+Hamburger [ The Weather Company ](/)
+
+  * [ Home Home](/)
+
+Home
+
+  * [ Today Today](/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Today
+
+  * [ Hourly Hourly](/weather/hourbyhour/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Hourly
+
+  * [ Close 10 Day](/weather/tenday/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+10 Day
+
+  * [ Monthly Monthly](/weather/monthly/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Monthly
+
+  * [ Radar Radar](/weather/radar/interactive/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Radar
+
+  * [ Video Video](/storms/winter/video/southeast-winter-ice-storm-weekend-travel-power-outages)
+
+Video
+
+  * [ ExploreNew](/explore)
+
+Explore
+
+  *   * Severe Weather
+
+    * [ Hurricane Hurricane Central](/storms/hurricane-central)
+
+Hurricane Central
+
+    * [ Tornado Tornado Central](/storms/tornado-central)
+
+Tornado Central
+
+    * [ Storm Safety & Prep](/safety/index)
+
+Safety & Prep
+
+  *   * Health & Wellness
+
+    * [ Allergy Allergy Tracker](/forecast/allergy/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Allergy Tracker
+
+    * [ Breathing Air Quality Index](/forecast/air-quality/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Air Quality Index
+
+    * [ Virus Cold & Flu Tracker](/forecast/cold-flu/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Cold & Flu Tracker
+
+    * [ Playlist Skin](/health/skin-health)
+
+Skin
+
+  *   * Lifestyle
+
+    * [ Playlist Home & Garden](/home-garden)
+
+Home & Garden
+
+    * [ Playlist Pets & Animals](/pets)
+
+Pets & Animals
+
+    * [ Playlist Recipes](/home-garden/recipes)
+
+Recipes
+
+    * [ Playlist Space & Skywatching](/science/space)
+
+Space & Skywatching
+
+    * [ Playlist Travel & Outdoors](/travel)
+
+Travel & Outdoors
+
+    * [ Products Product Reviews & Deals](/atmosphere)
+
+Product Reviews & Deals
+
+Close [ The Weather Company ](/)
+
+  * [ Home Home](/)
+
+Home
+
+  * [ Today Today](/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Today
+
+  * [ Hourly Hourly](/weather/hourbyhour/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Hourly
+
+  * [ Close 10 Day](/weather/tenday/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+10 Day
+
+  * [ Monthly Monthly](/weather/monthly/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Monthly
+
+  * [ Radar Radar](/weather/radar/interactive/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Radar
+
+  * [ Video Video](/storms/winter/video/southeast-winter-ice-storm-weekend-travel-power-outages)
+
+Video
+
+  * [ ExploreNew](/explore)
+
+Explore
+
+  *   * Severe Weather
+
+    * [ Hurricane Hurricane Central](/storms/hurricane-central)
+
+Hurricane Central
+
+    * [ Tornado Tornado Central](/storms/tornado-central)
+
+Tornado Central
+
+    * [ Storm Safety & Prep](/safety/index)
+
+Safety & Prep
+
+  *   * Health & Wellness
+
+    * [ Allergy Allergy Tracker](/forecast/allergy/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Allergy Tracker
+
+    * [ Breathing Air Quality Index](/forecast/air-quality/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Air Quality Index
+
+    * [ Virus Cold & Flu Tracker](/forecast/cold-flu/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Cold & Flu Tracker
+
+    * [ Playlist Skin](/health/skin-health)
+
+Skin
+
+  *   * Lifestyle
+
+    * [ Playlist Home & Garden](/home-garden)
+
+Home & Garden
+
+    * [ Playlist Pets & Animals](/pets)
+
+Pets & Animals
+
+    * [ Playlist Recipes](/home-garden/recipes)
+
+Recipes
+
+    * [ Playlist Space & Skywatching](/science/space)
+
+Space & Skywatching
+
+    * [ Playlist Travel & Outdoors](/travel)
+
+Travel & Outdoors
+
+    * [ Products Product Reviews & Deals](/atmosphere)
+
+Product Reviews & Deals
+
+Skip to Main Content[Accessibility
+Help](https://www.essentialaccessibility.com/the-weather-
+channel?utm_source=theweatherchannelhomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=theweatherchannel)[
+The Weather Company ](/)
+
+Type at least three characters to start auto complete. Recently searched
+locations will be displayed if there is no search query. The first option will
+be automatically selected. Use up and down arrows to change selection. Use
+escape to clear.Search City or Zip Code Search
+
+## Recents
+
+Clear
+
+You have no recent locations
+
+Globe US°F
+
+  * °F
+  * °C
+  * Hybrid
+
+Imperial - F / mph / miles / inches
+
+Americas Add
+
+[Antigua and Barbuda | English](/en-AG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Argentina | Español](/es-AR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Bahamas | English](/en-BS/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Barbados | English](/en-BB/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Belize | English](/en-BZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Bolivia | Español](/es-BO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Brazil | Português](/pt-BR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Canada | English](/en-CA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Canada | Français](/fr-CA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Chile | Español](/es-CL/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Colombia | Español](/es-CO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Costa Rica | Español](/es-CR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Dominica | English](/en-DM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Dominican Republic | Español](/es-DO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Ecuador | Español](/es-EC/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[El Salvador | Español](/es-SV/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Grenada | English](/en-GD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Guatemala | Español](/es-GT/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Guyana | English](/en-GY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Haiti | Français](/fr-HT/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Honduras | Español](/es-HN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Jamaica | English](/en-JM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mexico | Español](/es-MX/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Nicaragua | Español](/es-NI/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Panama | Español](/es-PA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Panama | English](/en-PA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Paraguay | Español](/es-PY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Peru | Español](/es-PE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[St. Kitts and Nevis | English](/en-KN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[St. Lucia | English](/en-LC/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[St. Vincent and the Grenadines | English](/en-VC/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Suriname | Nederlands](/nl-SR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Trinidad and Tobago | English](/en-TT/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Uruguay | Español](/es-UY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[United States | English](/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[United States | Español](/es-US/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Venezuela | Español](/es-VE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Africa Add
+
+[Algeria | العربية](/ar-DZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Algeria | Français](/fr-DZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Angola | Português](/pt-AO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Benin | Français](/fr-BJ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Burkina Faso | Français](/fr-BF/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Burundi | Français](/fr-BI/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Cameroon | Français](/fr-CM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Cameroon | English](/en-CM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Cape Verde | Português](/pt-CV/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Central African Republic | Français](/fr-CF/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Chad | Français](/fr-TD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Chad | العربية](/ar-TD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Comoros | Français](/fr-KM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Comoros | العربية](/ar-KM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Democratic Republic of the Congo | Français](/fr-CD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Republic of Congo | Français](/fr-CG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Côte d'Ivoire | Français](/fr-CI/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Djibouti | Français](/fr-DJ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Djibouti | العربية](/ar-DJ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Egypt | العربية](/ar-EG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Equatorial Guinea | Español](/es-GQ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Eritrea | العربية](/ar-ER/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Gabon | Français](/fr-GA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Gambia | English](/en-GM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Ghana | English](/en-GH/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Guinea | Français](/fr-GN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Guinea-Bissau | Português](/pt-GW/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Kenya | English](/en-KE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Lesotho | English](/en-LS/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Liberia | English](/en-LR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Libya | العربية](/ar-LY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Madagascar | Français](/fr-MG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mali | Français](/fr-ML/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mauritania | العربية](/ar-MR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mauritius | English](/en-MU/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mauritius | Français](/fr-MU/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Morocco | العربية](/ar-MA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Morocco | Français](/fr-MA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Mozambique | Português](/pt-MZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Namibia | English](/en-NA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Niger | Français](/fr-NE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Nigeria | English](/en-NG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Rwanda | Français](/fr-RW/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Rwanda | English](/en-RW/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Sao Tome and Principe | Português](/pt-ST/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Senegal | Français](/fr-SN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Sierra Leone | English](/en-SL/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Somalia | العربية](/ar-SO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[South Africa | English](/en-ZA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[South Sudan | English](/en-SS/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Sudan | العربية](/ar-SD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Swaziland | English](/en-SZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Tanzania | English](/en-TZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Togo | Français](/fr-TG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Tunisia | العربية](/ar-TN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Uganda | English](/en-UG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Asia Pacific Add
+
+[Australia | English](/en-AU/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Bangladesh | বাংলা](/bn-BD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Brunei | Bahasa Melayu](/ms-BN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[China | 中文](/zh-CN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Hong Kong SAR | 中文](/zh-HK/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[East Timor | Português](/pt-TP/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Fiji | English](/en-FJ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[India (English) | English](/en-IN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[India (Hindi) | हिन्दी](/hi-IN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Indonesia | Bahasa Indonesia](/id-ID/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Japan | 日本語](/ja-JP/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Kiribati | English](/en-KI/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[South Korea | 한국어](/ko-KR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Kyrgyzstan | Русский](/ru-KG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Malaysia | Bahasa Melayu](/ms-MY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Marshall Islands | English](/en-MH/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Micronesia | English](/en-FM/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[New Zealand | English](/en-NZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Palau | English](/en-PW/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Philippines | English](/en-PH/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Philippines | Tagalog](/tl-PH/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Samoa | English](/en-AS/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Singapore | English](/en-SG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Singapore | 中文](/zh-SG/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Solomon Islands | English](/en-SB/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Taiwan | 中文](/zh-TW/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Thailand | ไทย](/th-TH/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Tonga | English](/en-TO/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Tuvalu | English](/en-TV/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Vanuatu | English](/en-VU/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Vanuatu | Français](/fr-VU/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Vietnam | Tiếng Việt](/vi-VN/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)
+
+Europe Add
+
+[Andorra | Català](/ca-AD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Andorra | Français](/fr-AD/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Austria | Deutsch](/de-AT/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Belarus | Русский](/ru-BY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Belgium | Dutch](/nl-BE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Belgium | Français](/fr-BE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Bosnia and Herzegovina | Hrvatski](/hr-BA/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Croatia | Hrvatski](/hr-HR/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Cyprus | Ελληνικά](/el-CY/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Czech Republic | Čeština](/cs-CZ/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Denmark | Dansk](/da-DK/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Estonia | Русский](/ru-EE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Estonia | Eesti](/et-EE/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[Finland | Suomi](/fi-FI/weather/today/l/c63ba1438b50219d26240b2a833bc6a1cd71985a5fe9a16d468af3bdbb0032c4)[France | Français](/fr-FR/weather/today/l/c63ba1438b50219d26240b2a833bc6
+[RREF11] [https://www.accuweather.com/en/de/leipzig/04109/weather-forecast/171240](https://www.accuweather.com/en/de/leipzig/04109/weather-forecast/171240)
+[ Go Back ](/pwa)
+
+  * [ For Business ](https://afb.accuweather.com)
+  * |
+  * [ Warnings ](https://afb.accuweather.com/accuweather-skyguard)
+  * [ Data Suite ](https://afb.accuweather.com/accuweather-data-suite)
+  * [ Forensics ](https://afb.accuweather.com/accuweather-forensicservices)
+  * [ Advertising ](https://advertising.accuweather.com/for-advertising/digital-advertising/)
+  * [ Superior Accuracy™ ](https://afb.accuweather.com/accuweathers-proven-superior-accuracy)
+
+[ ](/) # [Leipzig, Saxony -2°C ](/en/de/leipzig/04109/weather-forecast/171240)
+
+Location  Chevron down
+
+Location News Videos
+
+Use Current Location
+
+Recent
+
+[ Leipzig Saxony -2° ](/web-api/three-day-redirect?key=171240&target=)
+
+No results found.
+
+Try searching for a city, zip code or point of interest.
+
+[ ](/en/videos)
+
+[ settings ](/en/settings)
+
+Leipzig, Saxony Weather
+
+[Today](/en/de/leipzig/04109/weather-forecast/171240)
+[WinterCast](/en/de/leipzig/04109/winter-weather-forecast/171240) [Local
+{stormName} Tracker](/en/de/leipzig/04109/tropical-weather-
+forecast/171240?eventkey={eventkey}) [Hourly](/en/de/leipzig/04109/hourly-
+weather-forecast/171240) [Daily](/en/de/leipzig/04109/daily-weather-
+forecast/171240) [Radar](/en/de/leipzig/04109/weather-radar/171240)
+[MinuteCast®](/en/de/leipzig/04109/minute-weather-forecast/171240)
+[Monthly](/en/de/leipzig/04109/january-weather/171240) [Air
+Quality](/en/de/leipzig/04109/air-quality-index/171240) [Health &
+Activities](/en/de/leipzig/04109/health-activities/171240)
+
+##
+
+Around the Globe
+
+### [Hurricane Tracker ](/en/hurricane) ### [Severe Weather ](/en/de/severe-
+weather) ### [Radar & Maps ](/en/de/saxony/weather-radar)
+
+News
+
+### [News & Features ](/en/weather-news) ### [Astronomy ](/en/space-news) ###
+[Business ](/en/business) ### [Climate ](/en/climate) ### [Health
+](/en/health-wellness) ### [Recreation ](/en/leisure-recreation) ### [Sports
+](/en/sports) ### [Travel ](/en/travel)
+
+For Business
+
+### [Warnings ](https://afb.accuweather.com/accuweather-skyguard) ### [Data
+Suite ](https://afb.accuweather.com/accuweather-data-suite) ### [Forensics
+](https://afb.accuweather.com/accuweather-forensicservices) ### [Advertising
+](https://advertising.accuweather.com/for-advertising/digital-advertising/)
+### [Superior Accuracy™ ](https://afb.accuweather.com/accuweathers-proven-
+superior-accuracy)
+
+### [Video ](/en/videos)
+
+## [Today ](/en/de/leipzig/04109/weather-forecast/171240) [ WinterCast
+](/en/de/leipzig/04109/winter-weather-forecast/171240) [ Hourly
+](/en/de/leipzig/04109/hourly-weather-forecast/171240) [ Daily
+](/en/de/leipzig/04109/daily-weather-forecast/171240) [ Radar
+](/en/de/leipzig/04109/weather-radar/171240) [ MinuteCast®
+](/en/de/leipzig/04109/minute-weather-forecast/171240) [ Monthly
+](/en/de/leipzig/04109/january-weather/171240) [ Air Quality
+](/en/de/leipzig/04109/air-quality-index/171240) [ Health & Activities
+](/en/de/leipzig/04109/health-activities/171240)
+
+[ 10 Warning for Severe Frost ](/en/de/leipzig/04109/weather-warnings/171240)
+
+## [Today's Weather Thu, Jan 22  ![](https://www.awxcdn.com/adc-
+assets/images/weathericons/5.svg) Hazy sun **Hi: 3 °**
+![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) Tonight:
+Clear and cold **Lo: -8 °** ](/en/de/leipzig/04109/weather-today/171240)
+
+## [ Current Weather  5:41 PM  -2°C RealFeel® -4° Mostly clear More Details
+Wind ESE 10 km/h Wind Gusts 20 km/h Air Quality Unhealthy
+](/en/de/leipzig/04109/current-weather/171240) ## [Looking Ahead 10-15 cm of
+snow and ice Sunday afternoon through Monday afternoon
+](/en/de/leipzig/04109/daily-weather-forecast/171240?day=4) ## [WinterCast®
+Sun Afternoon - Sun Evening ![](https://www.awxcdn.com/adc-
+assets/images/whiteweathericons/22.svg) Snow Lasting 1 hour
+](/en/de/leipzig/04109/winter-weather-forecast/171240)
+
+## Leipzig Weather Radar
+
+[ ![Leipzig Weather
+Radar](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJAQMAAAAB5D5xAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjwA0AABsAAQrj5HwAAAAASUVORK5CYII=)
+Static Radar Temporarily Unavailable Thank you for your patience as we work to
+get everything up and running again. Refresh Page
+](/en/de/leipzig/04109/weather-radar/171240)
+
+[ ![](https://www.awxcdn.com/adc-assets/images/components/maps/mapping-
+layers/realvue-satellite.jpg) Clouds ](/en/de/leipzig/04109/satellite/171240)
+[ ![](https://www.awxcdn.com/adc-assets/images/components/maps/mapping-
+layers/temperature.jpg) Temperature ](/en/de/saxony/current-weather-maps)
+
+## Hourly Weather
+
+Chevron left
+
+[ 6 PM  ![](https://www.awxcdn.com/adc-assets/images/weathericons/37.svg) -2°
+0% ](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769101200) [ 7
+PM  ![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -2° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769104800) [ 8 PM
+![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -3° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769108400) [ 9 PM
+![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -3° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769112000) [ 10 PM
+![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -4° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769115600) [ 11 PM
+![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -5° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769119200) [ 12 AM
+![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -5° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769122800&day=2) [
+1 AM  ![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -5° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769126400&day=2) [
+2 AM  ![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -6° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769130000&day=2) [
+3 AM  ![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -6° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769133600&day=2) [
+4 AM  ![](https://www.awxcdn.com/adc-assets/images/weathericons/33.svg) -7° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769137200&day=2) [
+5 AM  ![](https://www.awxcdn.com/adc-assets/images/weathericons/35.svg) -7° 0%
+](/en/de/leipzig/04109/hourly-weather-forecast/171240?hour=1769140800&day=2)
+
+Chevron right
+
+## 10-Day Weather Forecast
+
+[ Today 1/22 ![](https://www.awxcdn.com/adc-assets/images/weathericons/5.svg)
+3° -8° Hazy sun ![](https://www.awxcdn.com/adc-
+assets/images/weathericons/33.svg) Night: Clear and cold 0%
+](/en/de/leipzig/04109/weather-today/171240) [ Fri 1/23
+![](https://www.awxcdn.com/adc-assets/images/weathericons/4.svg) 0° -5° High
+clouds and colder ![](https://www.awxcdn.com/adc-
+assets/images/weathericons/36.svg) Partly cloudy and cold 0%
+](/en/de/leipzig/04109/weather-tomorrow/171240) [ Sat 1/24
+![](https://www.awxcdn.com/adc-assets/images/weathericons/8.svg) 0° -4° Chilly
+with low clouds ![](https://www.awxcdn.com/adc-
+assets/images/weathericons/36.svg) Partly cloudy 25%
+](/en/de/leipzig/04109/daily-weather-forecast/171240?day=3) [ Sun 1/25
+![](https://www.awxcdn.com/adc-assets/images/weathericons/19.svg) 1° -1° A bit
+of afternoon snow ![](https://www.awxcdn.com/adc-
+assets/images/weathericons/24.svg) An icy mix, 2-4 cm; cloudy 66%
+](/en/de/leipzig/04109/daily-weather-forecast/171240?day=4) [ Mon 1/26
+![](https://www.awxcdn.com/adc-assets/images/weathericons/22.svg) 1° -2°
+Chilly with 6-12 cm of snow ![](https://www.awxcdn.com/adc-
+assets/images/weathericons/7.svg) An evening flurry; clouds 96%
+](/en/de/leipzig/04109/daily-weather-forecast/171240?day=5) [ Tue 1/27
+![](https://www.awxcdn.com/adc-assets/images/weathericons/7.svg) 2° -1° Cloudy
+![](https://www.awxcdn.com/adc-assets/images/weathericons/7.svg) Cloudy 25%
+](/en/de/leipzig/04109/daily-weather-forecast/171240?day=6) [ Wed 1/28
+![](https://www.awxcdn.com/adc-assets/images/weathericons/7.svg) 4° 0° Cloudy
+![](https://www.awxcdn.com/adc-assets/images/weathericons/12.svg) A little
+rain early; cloudy 25%  ](/en/de/leipzig/04109/daily-weather-
+forecast/171240?day=7) [ Thu 1/29 ![](https://www.awxcdn.com/adc-
+assets/images/weathericons/7.svg) 3° 0° Low clouds may break
+![](https://www.awxcdn.com/adc-assets/images/weathericons/36.svg) Partly
+cloudy 25%  ](/en/de/leipzig/04109/daily-weather-forecast/171240?day=8) [ Fri
+1/30 ![](https://www.awxcdn.com/adc-assets/images/weathericons/7.svg) 5° 2°
+Considerable cloudiness ![](https://www.awxcdn.com/adc-
+assets/images/weathericons/38.svg) Cloudy most of the time 25%
+](/en/de/leipzig/04109/daily-weather-forecast/171240?day=9) [ Sat 1/31
+![](https://www.awxcdn.com/adc-assets/images/weathericons/6.svg) 6° 0° Mostly
+cloudy ![](https://www.awxcdn.com/adc-assets/images/weathericons/7.svg)
+Overcast with a shower late 25%  ](/en/de/leipzig/04109/daily-weather-
+forecast/171240?day=10)
+
+##  Sun & Moon
+
+![](/images/whiteweathericons/1.svg) 8 hrs 41 mins
+
+Rise 8:02 AM
+
+Set 4:43 PM
+
+![](/images/moon-phases/light/WaxingCrescent.svg) Waxing Crescent
+
+Rise 9:35 AM
+
+Set 9:10 PM
+
+## [Air Quality See More Air Quality Unhealthy Health effects can be
+immediately felt by sensitive groups. Healthy individuals may experience
+difficulty breathing and throat irritation with prolonged exposure. Limit
+outdoor activity.  ](/en/de/leipzig/04109/air-quality-index/171240)
+
+##  Allergy Outlook
+
+[See All](/en/de/leipzig/04109/health-activities/171240)
+
+[ Tree Pollen Low Data is not supported in this location
+](/en/de/leipzig/04109/allergies-weather/171240?name=tree-pollen) [ Ragweed
+Pollen Low Data is not supported in this location
+](/en/de/leipzig/04109/allergies-weather/171240?name=ragweed-pollen) [ Mold
+Low Data is not supported in this location ](/en/de/leipzig/04109/allergies-
+weather/171240?name=mold) [ Grass Pollen Low Data is not supported in this
+location ](/en/de/leipzig/04109/allergies-weather/171240?name=grass-pollen) [
+Dust & Dander Very High Data is not supported in this location
+](/en/de/leipzig/04109/allergies-weather/171240?name=dust-dander)
+
+Contains modified Copernicus Atmosphere Monitoring Service information 2026
+
+Top Stories
+
+[ Winter Weather Ice storm threatens Texas to Virginia with massive power
+outages 47 minutes ago ](https://www.accuweather.com/en/winter-weather/ice-
+storm-threatens-texas-to-virginia-with-widespread-power-outages-travel-
+shutdowns/1855315) [ Weather News Salt Lake City rocked by magnitude 4.7
+earthquake 31 minutes ago ](https://www.accuweather.com/en/weather-news/salt-
+lake-city-rocked-by-magnitude-4-7-earthquake/1855346) [ Winter Weather Major
+snow, ice storm to affect 150 million across South, East U.S. 4 hours ago
+](https://www.accuweather.com/en/winter-weather/major-snow-ice-storm-to-
+affect-more-than-150-million-people-in-southern-eastern-us/1854647) [ Winter
+Weather Texas braces for major winter storm with cold not seen since 2021 20
+hours ago ](https://www.accuweather.com/en/winter-weather/winter-storm-brings-
+cold-not-seen-since-2021-putting-texas-power-grid-to-the-test/1855174) [
+Winter Weather Severe cold may lead to days of dangerous conditions 4 hours
+ago ](https://www.accuweather.com/en/winter-weather/severe-cold-in-wake-of-
+major-ice-storm-may-lead-to-days-of-dangerous-weather-conditions/1854992)
+[More Stories](https://www.accuweather.com/en/weather-news)
+
+Featured Stories
+
+[ Astronomy NASA astronaut Suni Williams retires months after return from
+troubled... 23 hours ago ](https://www.accuweather.com/en/space-news/nasa-
+astronaut-suni-williams-retires-months-after-return-from-troubled-mission-to-
+orbit/1855085) [ Weather News Deadly wildfires burned across southern Chile
+amid extreme heat and wi... 1 day ago
+](https://www.accuweather.com/en/weather-news/deadly-wildfires-burned-across-
+southern-chile-amid-extreme-heat-and-wind/1854447) [ Weather News Four shark
+attacks in two days. Why Australia's beaches are dangerous 1 day ago
+](https://www.accuweather.com/en/weather-news/four-shark-attacks-in-two-days-
+why-australias-beaches-are-so-dangerous-this-year/1854746) [ Travel Second
+rail tragedy rocks Spain, as passenger train derails 1 day ago
+](https://www.accuweather.com/en/travel/second-rail-tragedy-rocks-spain-as-
+passenger-train-derails-days-after-dozens-killed-in-high-speed-
+collision/1854998) [ Climate Why this famous iceberg turned blue and what it
+says about melting ice 5 days ago
+](https://www.accuweather.com/en/climate/why-this-famous-iceberg-turned-blue-
+and-what-it-tells-us-about-melting-ice/1853834)
+
+[World](/en/world-weather) [Europe](/en/europe-weather)
+[Germany](/en/de/germany-weather) [Saxony](/en/de/sn/saxony-weather)
+[Leipzig](/en/de/leipzig/04109/weather-forecast/171240)
+
+## Weather Near Leipzig:
+
+  * [ Dessau-Roßlau, Saxony-Anhalt ](/en/de/dessau-roßlau/06844/weather-forecast/171291)
+  * [ Gera, Thuringia ](/en/de/gera/07545/weather-forecast/171708)
+  * [ Halle, Saxony-Anhalt ](/en/de/halle/06108/weather-forecast/171292)
+
+Company
+
+[ Proven Superior Accuracy™ ](https://corporate.accuweather.com/) [ About
+AccuWeather ](https://corporate.accuweather.com/company/about-us/) [ Digital
+Advertising ](https://advertising.accuweather.com/for-advertising/digital-
+advertising/) [ Careers ](https://corporate.accuweather.com/company/careers/)
+[ Press ](https://corporate.accuweather.com/newsroom/press-releases/) [
+Contact Us ](/en/contact)
+
+Products & Services
+
+[ For Business ](https://afb.accuweather.com/) [ For Partners
+](https://partners.accuweather.com/) [ For Advertising
+](https://advertising.accuweather.com/) [ AccuWeather APIs
+](https://developer.accuweather.com/) [ AccuWeather Connect
+](https://afb.accuweather.com/accuweather-connect-and-content-syndication) [
+Personal Weather Stations ](https://app.accuweather.com/products/ambient-
+weather-stations)
+
+Apps & Downloads
+
+[ iPhone App ](https://go.onelink.me/app/ef253ee1) [ Android App
+](https://go.onelink.me/app/85d14e58) [ See all Apps & Downloads
+](https://7482826.hs-sites.com/premium-plus)
+
+Subscription Services
+
+[ AccuWeather Premium ](https://wwwl.accuweather.com/premium_login.php) [
+AccuWeather Professional ](https://wwwl.accuweather.com/pro_login.php)
+
+More
+
+[ AccuWeather Ready ](/en/accuweather-ready) [ Business ](/en/business) [
+Health ](/en/health-wellness) [ Hurricane ](/en/hurricane) [ Leisure and
+Recreation ](/en/leisure-recreation) [ Severe Weather ](/en/de/severe-weather)
+[ Space and Astronomy ](/en/space-news) [ Sports ](/en/sports) [ Travel
+](/en/travel) [ Weather News ](/en/weather-news)
+
+[ ](https://www.facebook.com/AccuWeather) [
+](https://twitter.com/BreakingWeather)
+
+Company
+
+[ Proven Superior Accuracy™ ](https://corporate.accuweather.com/) [ About
+AccuWeather ](https://corporate.accuweather.com/company/about-us/) [ Digital
+Advertising ](https://advertising.accuweather.com/for-advertising/digital-
+advertising/) [ Careers ](https://corporate.accuweather.com/company/careers/)
+[ Press ](https://corporate.accuweather.com/newsroom/press-releases/) [
+Contact Us ](/en/contact)
+
+Products & Services
+
+[ For Business ](https://afb.accuweather.com/) [ For Partners
+](https://partners.accuweather.com/) [ For Advertising
+](https://advertising.accuweather.com/) [ AccuWeather APIs
+](https://developer.accuweather.com/) [ AccuWeather Connect
+](https://afb.accuweather.com/accuweather-connect-and-content-syndication) [
+Personal Weather Stations ](https://app.accuweather.com/products/ambient-
+weather-stations)
+
+Apps & Downloads
+
+[ iPhone App ](https://go.onelink.me/app/ef253ee1) [ Android App
+](https://go.onelink.me/app/85d14e58) [ See all Apps & Downloads
+](https://7482826.hs-sites.com/premium-plus)
+
+Subscription Services
+
+[ AccuWeather Premium ](https://wwwl.accuweather.com/premium_login.php) [
+AccuWeather Professional ](https://wwwl.accuweather.com/pro_login.php)
+
+More
+
+[ AccuWeather Ready ](/en/accuweather-ready) [ Business ](/en/business) [
+Health ](/en/health-wellness) [ Hurricane ](/en/hurricane) [ Leisure and
+Recreation ](/en/leisure-recreation) [ Severe Weather ](/en/de/severe-weather)
+[ Space and Astronomy ](/en/space-news) [ Sports ](/en/sports) [ Travel
+](/en/travel) [ Weather News ](/en/weather-news)
+
+[ ](https://www.facebook.com/AccuWeather) [
+](https://twitter.com/BreakingWeather)
+
+(C) 2026 AccuWeather, Inc. "AccuWeather" and sun design are registered
+trademarks of AccuWeather, Inc. All Rights Reserved.
+
+[ Terms of Use ](/en/legal) | [ Privacy Policy ](/en/privacy) | [ Cookie Policy ](/en/cookiepolicy) | [ Data Sources ](/en/data-sources)
+
+...
+
+...
+
+...
+
+...
+
+...
+
+
+[RREF12] [https://www.wunderground.com/forecast/de/leipzig](https://www.wunderground.com/forecast/de/leipzig)
+Skip to Main Content [_ ](/ "Weather Underground") Sensor Network  Maps &
+Radar  Severe Weather  News & Blogs  Mobile Apps
+
+More
+
+Search _close_ _gps_fixed_
+
+  *  _gps_fixed_ Find Nearest Station 
+
+  * [Manage Favorite Cities](/member/favorites)
+
+[Log In](/login)
+
+[ _account_box_ Log in ](/login)_settings_ Settings Sensor NetworkMaps &
+RadarSevere WeatherNews & BlogsMobile Apps[Historical Weather](/history/)
+
+Search _close_ _gps_fixed_
+
+  *  _gps_fixed_ Find Nearest Station 
+
+  * [Manage Favorite Cities](/member/favorites)
+
+ _settings_
+
+ _warning_**Active Watch** : [Severe Warning for Low
+Temperature](/severe/de/leipzig)  ([See More](/severe/de/leipzig))
+
+Elev **122** ft, **51.34** °N, **12.38** °E
+
+# Leipzig, Saxony, Germany 10-Day Weather Forecast _star_rate_ _home_
+
+![icon](//www.wunderground.com/static/i/c/v4/31.svg) 31 °F Zentrum-Ost
+Station|Report
+
+Report Station
+
+Thank you for reporting this station. We will review the data in question.
+
+You are about to report this weather station for bad data. Please select the
+information that is incorrect.
+
+Temperature
+
+Pressure
+
+Wind
+
+Forecast
+
+Station Offline
+
+Send Report
+
+|Change
+
+ __
+
+__
+
+[See more](/wundermap/?lat=51.339043&lon=12.384283&zoom=12&wxsn=1)
+
+(Reset Map)
+
+Current Station
+
+Personal Weather Station
+
+[ Zentrum-Ost (ILEIPZ481)](/history/daily/de/leipzig/ILEIPZ481/date/2026-1-22)
+
+Location: **Leipzig , Saxony, Germany**
+
+Elevation: 122ft
+
+Nearby Weather Stations
+
+No PWS
+
+Reset Map, or [Add PWS](/member/devices/new).
+
+[zoom out](javascript:void\(0\);)
+
+Showing Stations
+
+ _settings_ Customize
+
+PreviousNext
+
+[ _date_range_ View Calendar Forecast ](/calendar/de/leipzig/EDDP)
+
+Top Video Stories
+
+  *  _keyboard_arrow_left_
+  *  _keyboard_arrow_right_
+
+[See more Top Video Stories](/video/top-stories)
+
+Additional Conditions
+
+Pressure
+
+29.58 °in
+
+Visibility
+
+8 °miles
+
+Clouds
+
+Clear
+
+Dew Point
+
+19 °F
+
+Humidity
+
+69 °%
+
+Rainfall
+
+0 °in
+
+Snow Depth
+
+0 °in
+
+Top Video Stories
+
+  *  _keyboard_arrow_left_
+  *  _keyboard_arrow_right_
+
+[See more Top Video Stories](/video/top-stories)
+
+Astronomy
+
+Sun
+
+Rise
+
+Set
+
+Actual Time
+
+8:03 AM
+
+4:42 PM
+
+Civil Twilight
+
+7:25 AM
+
+5:20 PM
+
+Nautical Twilight
+
+6:44 AM
+
+6:01 PM
+
+Astronomical Twilight
+
+6:05 AM
+
+6:40 PM
+
+Length of Visible Light
+
+9 h 54 m
+
+Length of Day
+
+8 h 39 m
+
+Tomorrow will be 2 minutes 50 seconds longer
+
+Moon
+
+9:35 AM
+
+9:10 PM
+
+![icon](//www.wunderground.com/static/i/moon/n-03.svg)
+
+waxing crescent
+
+16% of the Moon is Illuminated
+
+![icon](//www.wunderground.com/static/i/moon/n-07.svg)
+
+Jan 26
+
+Waxing Half First Qtr
+
+![icon](//www.wunderground.com/static/i/moon/n-15.svg)
+
+Feb 1
+
+Full Moon
+
+![icon](//www.wunderground.com/static/i/moon/n-22.svg)
+
+Feb 9
+
+Waning Half Last Qtr
+
+![icon](//www.wunderground.com/static/i/moon/n-01.svg)
+
+Feb 17
+
+New Moon
+
+  * [Our Apps](/download "Weather Underground Mobile Apps")
+  * [About Us](/about/our-company "About Weather Underground")
+  * [Contact](/about/contact-us "Contact Weather Underground")
+  * [Careers](https://www.weathercompany.com/careers)
+
+  * [PWS Network](/pws/overview "Personal Weather Station Network")
+  * [WunderMap](/wundermap "Experience WunderMap")
+  * [Feedback & Support](https://www.wunderground.com/feedback "Customer Feedback for Weather Underground")
+
+  * [Terms of Use](/company/legal)
+  * [Privacy Policy](/company/privacy-policy)
+  * [Accessibility Statement](/accessibility-statement)
+  * [AdChoices](/company/ad-choices)
+  * [Data Vendors](/data-vendors)
+
+[](https://www.essentialaccessibility.com/the-weather-
+channel?utm_source=theweatherchannelhomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=theweatherchannel)
+
+We recognize our responsibility to use data and technology for good. We may
+use or share your data with our data vendors. Take control of your data.
+
+  * [Data Rights](/data-rights)
+
+[![The Weather Company Logo](//www.wunderground.com/static/i/misc/twc-
+white.svg)](https://www.weathercompany.com)[![The Weather Channel
+Logo](//www.wunderground.com/static/i/misc/twc-
+knockout.svg)](https://weather.com)[![Weather Underground
+Logo](//www.wunderground.com/static/i/misc/wu-
+knockout.svg)](https://www.wunderground.com)[![Storm Radar
+Logo](//www.wunderground.com/static/i/misc/sr-
+knockout.png)](https://weather.com/storm-radar)
+
+© The Weather Company, LLC 2026
+
+Please enable JavaScript to continue using this application.
+
+
+
+Conversation settings
+title: Current Weather in Leipzig
+model-name: OpenAI GPT OSS 120B
+model: openai-gpt-oss-120b
+temperature: 0.5
+top_p: 0.5
