@@ -38,6 +38,8 @@ AI exploration 2026 #2
 * open models can run on your laptop or PC
 * [Jan.ai](https://www.jan.ai/) and [LMStudio](https://lmstudio.ai/) are two of the many (desktop) applications to run local models; there are by now, [many of those](https://github.com/miku/localai-kith-2025?tab=readme-ov-file#list-of-popular-open-weights-models)
 
+Recipe generation with GPT-OSS 120B on a Framework Desktop:
+
 ![](static/screenshot-2026-01-22-213548-apple-crumble.png)
 
 * system prompts allow to adjust the "persona" of a model
