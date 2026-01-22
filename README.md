@@ -99,6 +99,8 @@ Hugo automation potential, LLM as an interface to translate user query to
 structured queries for search engines and then to summary results from hundreds
 of sources.
 
+* coding tools: claude code, blackbox.ai
+
 Wrap up; next event [04. März 2026, ab 17:00 Uhr](https://www.ub.uni-leipzig.de/service/workshops-und-online-tutorials/schulungen/ki-stammtisch)!
 
 ## Updates
