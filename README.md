@@ -103,6 +103,14 @@ of sources.
 
 Wrap up; next event [04. März 2026, ab 17:00 Uhr](https://www.ub.uni-leipzig.de/service/workshops-und-online-tutorials/schulungen/ki-stammtisch)!
 
+## Ideas for next meeting
+
+* the scope of fake; fake data, images, text, manipulation, deception; scale and examples; verification
+* agents, agentic coding, agentic research
+* build a research plan with AI
+* literature management with AI
+* specific research tools
+
 ## Updates
 
 * [How AI Destroys Institutions](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
