@@ -64,7 +64,7 @@ relevant document chunks.
 
 * example tool use with OPENAI GPT OSS 120B on GWGD, [transcript](static/chat-ai-2026-01-22-214543.txt).
 
-Larger model may be less prone to generating wrong data. Tried
+Larger model may be less prone to generating wrong data. Example, some non-existing programming langauge, tried
 
 > write a hello world program in the write a hello world in the koriako programming language
 
@@ -74,7 +74,7 @@ with:
 * qwen3-vl:4b
 * gpt-oss:120b
 
-Only gemma3n generated some code and explained it; in case you are curious:
+Only (the smaller) gemma3n generated some code and explained it; in case you are curious:
 
 ```
 program main
@@ -96,7 +96,7 @@ Example deep research, based on a participants requirement:
 After 6m17s, we get a complete looking list: [d3bda803-05ea-4154-bca6-abea63be6a65.md](static/compass_artifact_wf-d3bda803-05ea-4154-bca6-abea63be6a65_text_markdown.md)
 
 Hugo automation potential, LLM as an interface to translate user query to
-structured queries for search engines and then to summary results from hundreds
+structured queries for search engines and then to summarize results from hundreds
 of sources.
 
 * coding tools: claude code, blackbox.ai
@@ -105,13 +105,13 @@ Wrap up; next event [04. März 2026, ab 17:00 Uhr](https://www.ub.uni-leipzig.de
 
 ## Ideas for next meeting
 
-* the scope of fake; fake data, images, text, manipulation, deception; scale and examples; verification
+* the **scope of fake**; fake data, images, text, manipulation, deception; scale and examples; verification
 * agents, agentic coding, agentic research
 * build a research plan with AI
-* literature management with AI
-* specific research tools
+* **literature management with AI**
+* **specific research tools**
 
-## Updates
+## Misc/Updates
 
 * [How AI Destroys Institutions](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 
