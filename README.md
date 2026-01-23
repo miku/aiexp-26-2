@@ -149,7 +149,7 @@ Wrap up; next event [04. März 2026, ab 17:00 Uhr](https://www.ub.uni-leipzig.de
 
 ## Ideas for next meeting
 
-* the **scope of fake**; fake data, images, text, manipulation, deception; scale and examples; verification
+* the **scope of fake**; fake data, images, text, manipulation, deception; scale and examples; verification; cf. [GPTZero finds over 50 new hallucinations in ICLR 2026 submissions](https://gptzero.me/news/iclr-2026/)
 * agents, agentic coding, agentic research
 * build a research plan with AI
 * **literature management with AI**
