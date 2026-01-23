@@ -122,7 +122,12 @@ Some popular evals:
 * [ARC-AGI-2](https://arcprize.org/arc-agi/2/), [paper](https://arxiv.org/pdf/2505.11831); "Abstraction and Reasoning Corpus for Artificial General Intelligenc"
 * ...
 
-A leaderboard: [llm-leaderboard](https://www.vellum.ai/llm-leaderboard)
+Various leaderboards: [llm-leaderboard](https://www.vellum.ai/llm-leaderboard),
+[LLM Leaderboard - Comparison of over 100 AI models from OpenAI, Google,
+DeepSeek & others](https://artificialanalysis.ai/leaderboards/models),
+[lmarena](https://lmarena.ai/leaderboard),
+[convex](https://www.convex.dev/llm-leaderboard),
+[livebench](https://livebench.ai/#/), ...
 
 You can write your own EVAL to see, how different models perform for your specific task.
 
