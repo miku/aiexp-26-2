@@ -87,6 +87,45 @@ end
 > execute this, I can't verify it in the traditional sense. However, based on
 > the information I have, this appears to be the correct structure.
 
+* the gap between training, eval and reality
+
+Companies differentiate themselves through training and data (and the amount of compute they can secure), then run evals,
+EVALS shape some of the public image and expectation (more on the history of AI and evals, cf. [Text By the
+Bay 2015: Mark Liberman, Keynote Address: Now is the Golden Age of Text
+Analysis](https://www.youtube.com/watch?v=CbPn2PXZK8s)); however, they can be misleading (cf. [Misrepresented Technological Solutions in Imagined Futures: The Origins and
+Dangers of AI Hype in the Research Community](https://arxiv.org/pdf/2408.15244)), as they may not map to actual real-world settings;
+
+Sometimes called [jagged frontier](https://www.hbs.edu/ris/Publication%20Files/24-013_d9b45b68-9e74-42d6-a1c6-c72fb70c7282.pdf):
+
+> This creates a “jagged Frontier,” where tasks that appear to be of similar
+> difficulty may either be performed better or worse by humans using AI. Due to
+> the “jagged” nature of the frontier, the same knowledge workflow of tasks can
+> have tasks on both sides of the frontier, see Figure 1. The future of
+> understanding how AI impacts work involves understanding how human
+> interaction with AI changes depending on where tasks are placed on this
+> frontier, and how the frontier will change over time.
+
+An AI optimists view of the jagged frontier (via [r/singularity](https://www.reddit.com/r/singularity/comments/1p7p02h/jagged_frontier/)):
+
+![](static/jagged-frontier-v0-3y6bxwek8p3g1.webp)
+
+Some popular evals:
+
+* [MMLU](https://en.wikipedia.org/wiki/MMLU),  consists of 15,908
+  multiple-choice questions; The questions span across 57 subjects, from highly
+  complex STEM fields and international law, to nutrition and religion. It was
+  one of the most commonly used benchmarks for comparing the capabilities of
+  large language models, with over 100 million downloads as of July 2024
+* [Humanity's Last Exam](https://en.wikipedia.org/wiki/Humanity%27s_Last_Exam) (HLE); "over 2,500 expert-level questions across a broad range of subjects"
+* [GPQA-Diamond](https://epoch.ai/benchmarks/gpqa-diamond), "A challenging multiple-choice question set in biology, chemistry, and physics, authored by PhD-level experts."
+* [SWE-bench](https://github.com/SWE-bench/SWE-bench); "Given a codebase and an issue, a language model is tasked with generating a patch that resolves the described problem."
+* [ARC-AGI-2](https://arcprize.org/arc-agi/2/), [paper](https://arxiv.org/pdf/2505.11831); "Abstraction and Reasoning Corpus for Artificial General Intelligenc"
+* ...
+
+A leaderboard: [llm-leaderboard](https://www.vellum.ai/llm-leaderboard)
+
+You can write your own EVAL to see, how different models perform for your specific task.
+
 * deep research tool
 
 Example deep research, based on a participants requirement:
