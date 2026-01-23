@@ -38,7 +38,7 @@ AI exploration 2026 #2
 * open models can run on your laptop or PC
 * [Jan.ai](https://www.jan.ai/) and [LMStudio](https://lmstudio.ai/) are two of the many (desktop) applications to run local models; there are by now, [many of those](https://github.com/miku/localai-kith-2025?tab=readme-ov-file#list-of-popular-open-weights-models)
 
-Recipe generation with GPT-OSS 120B on a Framework Desktop:
+Recipe generation with GPT-OSS 120B on a [Framework Desktop](https://frame.work/desktop) (using an [AMD Ryzen™ AI Max+ 395](https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html), with 128GB [unified memory](https://rocm.docs.amd.com/projects/HIP/en/docs-6.2.0/how-to/unified_memory.html#id1))
 
 ![](static/screenshot-2026-01-22-213548-apple-crumble.png)
 
